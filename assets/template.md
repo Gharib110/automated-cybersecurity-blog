@@ -1,12 +1,14 @@
 ---
 title: "[TITLE]"
 date: [DATE]
-summary: "[DESCRIPTION]"
+draft: false
+type: posts
 categories: 
 - [CATEGORIES]
 ---
 # [TITLE]
 [IMAGES]
+<br/>
 [VIDEO]
 <br/>
 [MARKDOWN]
