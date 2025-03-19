@@ -1,8 +1,6 @@
 ---
 title: "Srsly Risky Biz When thuggery is your cyber talent pipeline"
 date: Thu, 17 Oct 2024 12:59:01 +1100
-draft: false
-type: posts
 summary: " In this podcast Tom Uren and Patrick Gray talk about the evolving relationship between Russian intelligence services and the country’s cybercriminals. The"
 categories: 
 - 

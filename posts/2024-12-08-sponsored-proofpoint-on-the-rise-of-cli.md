@@ -1,8 +1,6 @@
 ---
 title: "Sponsored Proofpoint on the rise of ClickFix attacks"
 date: Mon, 09 Dec 2024 09:24:20 +1100
-draft: false
-type: posts
 summary: " In this Risky Business News sponsor interview, Catalin Cimpanu talks with Proofpoint senior threat intelligence analyst Selena Larson about the rise of"
 categories: 
 - 

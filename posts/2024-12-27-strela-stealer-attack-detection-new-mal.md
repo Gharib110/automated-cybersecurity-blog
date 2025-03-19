@@ -1,8 +1,6 @@
 ---
 title: "Strela Stealer Attack Detection New Malware Variant Now Targets Ukraine Alongside Spain Italy and Germany"
 date: Fri, 27 Dec 2024 12:18:37 +0000
-draft: false
-type: posts
 summary: " Security experts have uncovered a novel Strela Stealer campaign, which leverages a new iteration of email credential-stealing malware. In this campaign, the updated malware version is enriched with enhanced functionality and is now capable of gathering system configuration data via the &#8220;system info&#8221; utility. Moreover, Strela Stealer expanded its targets"
 categories: 
 - Blog,Latest Threats,Cyberattack,Detection Content,Malware,Sigma,SOC Prime Platform,Threat Detection Marketplace,Threat Hunting Content

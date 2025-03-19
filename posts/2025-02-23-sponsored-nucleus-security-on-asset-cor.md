@@ -1,8 +1,6 @@
 ---
 title: "Sponsored Nucleus Security on asset correlation and asset linking"
 date: Mon, 24 Feb 2025 08:43:51 +1100
-draft: false
-type: posts
 summary: " In this Risky Business News sponsor interview, Catalin Cimpanu talks with Aaron Attarzadeh, Enterprise Security Engineer at Nucleus. Aaron goes into new"
 categories: 
 - 

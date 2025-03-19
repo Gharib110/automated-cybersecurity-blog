@@ -1,8 +1,6 @@
 ---
 title: "Srsly Risky Biz Canadas expulsion from Five Eyes would be a disaster"
 date: Thu, 27 Feb 2025 14:31:45 +1100
-draft: false
-type: posts
 summary: " Tom Uren and Patrick Gray talk about the White House apparently considering kicking Canada out of the Five Eyes intelligence alliance to"
 categories: 
 - 

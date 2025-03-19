@@ -1,8 +1,6 @@
 ---
 title: "Sponsored Push Security on its new stolen credentials detection feature"
 date: Mon, 02 Dec 2024 06:45:09 +1100
-draft: false
-type: posts
 summary: " In this Risky Business News sponsor interview, Catalin Cimpanu talks with Jacques Louw, co-founder and chief product officer at Push Security, on"
 categories: 
 - 

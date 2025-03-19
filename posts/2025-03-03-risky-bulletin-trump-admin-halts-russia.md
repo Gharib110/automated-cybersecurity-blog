@@ -1,8 +1,6 @@
 ---
 title: "Risky Bulletin Trump admin halts Russia cyber operations"
 date: Mon, 03 Mar 2025 13:22:48 +1100
-draft: false
-type: posts
 summary: " The Trump administration stops treating Russian hackers as a threat, Meta seeks a permanent NSO injunction, new Cellebrite zero-days come to light,"
 categories: 
 - 

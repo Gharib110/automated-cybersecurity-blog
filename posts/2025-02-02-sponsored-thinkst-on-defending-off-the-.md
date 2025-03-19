@@ -1,8 +1,6 @@
 ---
 title: "Sponsored Thinkst on Defending off the Land"
 date: Mon, 03 Feb 2025 08:15:38 +1100
-draft: false
-type: posts
 summary: " In this Risky Business News sponsor interview, Catalin Cimpanu talks with Thinkst CTO Marco Slaviero about a concept called Defending off the"
 categories: 
 - 

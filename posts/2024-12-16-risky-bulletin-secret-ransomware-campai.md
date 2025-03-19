@@ -1,8 +1,6 @@
 ---
 title: "Risky Bulletin Secret ransomware campaign targeted DrayTek routers for a year"
 date: Mon, 16 Dec 2024 13:42:02 +1100
-draft: false
-type: posts
 summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
 categories: 
 - 

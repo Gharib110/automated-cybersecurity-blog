@@ -1,8 +1,6 @@
 ---
 title: "Sponsored Breaking the deadlock between IT and security teams"
 date: Mon, 25 Nov 2024 09:41:57 +1100
-draft: false
-type: posts
 summary: " In this Risky Business News sponsored interview, Tom Uren talks to Mike Wiacek, CEO and founder of Stairwell, about the occasionally dysfunctional"
 categories: 
 - 

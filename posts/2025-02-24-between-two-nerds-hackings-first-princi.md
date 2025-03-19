@@ -1,8 +1,6 @@
 ---
 title: "Between Two Nerds Hackings first principles"
 date: Tue, 25 Feb 2025 09:40:19 +1100
-draft: false
-type: posts
 summary: " In this edition of Between Two Nerds Tom, Uren and The Grugq examine the fundamental principles of network exploitation as described in"
 categories: 
 - 

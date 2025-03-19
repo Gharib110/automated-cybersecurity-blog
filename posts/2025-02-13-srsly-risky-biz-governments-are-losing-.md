@@ -1,8 +1,6 @@
 ---
 title: "Srsly Risky Biz Governments are losing the crypto wars"
 date: Thu, 13 Feb 2025 12:04:43 +1100
-draft: false
-type: posts
 summary: " In this podcast Tom Uren and Patrick Gray talk about Apple’s refusal to obey a UK government order to provide the capability"
 categories: 
 - 

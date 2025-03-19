@@ -1,8 +1,6 @@
 ---
 title: "XE Group Activity Detection From Credit Card Skimming to Exploiting CVE-2024-57968 and CVE-2025-25181 VeraCore Zero-Day Vulnerabilities"
 date: Tue, 11 Feb 2025 15:57:17 +0000
-draft: false
-type: posts
 summary: " XE Group, likely a Vietnam-linked hacking collective that has been active in the cyber threat arena for over a decade is believed to be behind the exploitation of a couple of VeraCore zero-day vulnerabilities. During the latest campaign, adversaries weaponized VeraCore flaws tracked as CVE-2024-57968 and CVE-2025-25181 to deploy reverse"
 categories: 
 - Blog,Latest Threats,CVE,Cyberattack,Detection Content,Sigma,SOC Prime Platform,Threat Detection Marketplace,Threat Hunting Content,Vulnerability,Zero-Day,ZeroDay

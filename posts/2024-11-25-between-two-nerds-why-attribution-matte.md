@@ -1,8 +1,6 @@
 ---
 title: "Between Two Nerds Why attribution matters"
 date: Tue, 26 Nov 2024 08:36:33 +1100
-draft: false
-type: posts
 summary: " In this edition of Between Two Nerds Tom Uren and The Grugq talk about different views on attribution and why it still"
 categories: 
 - 

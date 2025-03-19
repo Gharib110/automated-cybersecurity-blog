@@ -1,8 +1,6 @@
 ---
 title: "Between Two Nerds Measuring cyber power"
 date: Tue, 22 Oct 2024 07:46:31 +1100
-draft: false
-type: posts
 summary: " In this edition of Between Two Nerds Tom Uren and The Grugq talk about a new attempt to measure cyber power, the"
 categories: 
 - 

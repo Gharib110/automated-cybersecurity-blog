@@ -1,8 +1,6 @@
 ---
 title: "Between Two Nerds A European cyber command"
 date: Tue, 11 Mar 2025 07:26:37 +1100
-draft: false
-type: posts
 summary: " In this edition of Between Two Nerds Tom Uren and The Grugq talk about what Europe should do given that US security"
 categories: 
 - 

@@ -1,8 +1,6 @@
 ---
 title: "Risky Biz News Salt Typhoons telco hacking spree keeps getting bigger"
 date: Fri, 06 Dec 2024 10:44:59 +1100
-draft: false
-type: posts
 summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
 categories: 
 - 

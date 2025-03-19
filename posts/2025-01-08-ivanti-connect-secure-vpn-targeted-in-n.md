@@ -1,8 +1,6 @@
 ---
 title: "Ivanti Connect Secure VPN Targeted in New Zero-Day Exploitation"
 date: Wed, 08 Jan 2025 14:00:00 +0000
-draft: false
-type: posts
 summary: "Written by: John Wolfram, Josh Murchie, Matt Lin, Daniel Ainsworth, Robert Wallace, Dimiter Andonov, Dhanesh Kizhakkinan, Jacob Thompson Note: This is a developing campaign under active analysis by Mandiant and Ivanti. We will continue to add more indicators, detections, and information to this blog post as needed. See the Changelog at"
 categories: 
 - Threat Intelligence

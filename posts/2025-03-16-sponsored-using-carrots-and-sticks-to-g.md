@@ -1,8 +1,6 @@
 ---
 title: "Sponsored Using carrots and sticks to get more secure software"
 date: Mon, 17 Mar 2025 08:43:10 +1100
-draft: false
-type: posts
 summary: " In this Risky Bulletin sponsor interview Matt Muller, field CISO of Tines, explains how governments are using carrots and sticks to improve"
 categories: 
 - 

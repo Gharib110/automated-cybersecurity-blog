@@ -1,8 +1,6 @@
 ---
 title: "Cybercrime A Multifaceted National Security Threat"
 date: Tue, 11 Feb 2025 20:00:00 +0000
-draft: false
-type: posts
 summary: "Executive Summary Cybercrime makes up a majority of the malicious activity online and occupies the majority of defenders' resources. In 2024, Mandiant Consulting responded to almost four times more intrusions conducted by financially motivated actors than state-backed intrusions. Despite this overwhelming volume, cybercrime receives much less attention from national security practitioners"
 categories: 
 - Threat Intelligence
@@ -24,7 +22,7 @@ Despite the overlaps in effects and collaboration with states, tackling the root
 
 aside\_block
 
-<ListValue: \[StructValue(\[('title', 'Cybercrime: A Multifaceted National Security Threat'), ('body', <wagtail.rich\_text.RichText object at 0x3e0350ed5970>), ('btn\_text', 'Download now'), ('href', 'https://services.google.com/fh/files/misc/cybercrime-multifaceted-national-security-threat.pdf'), ('image', <GAEImage: cybercrime-cover>)\])\]>
+<ListValue: \[StructValue(\[('title', 'Cybercrime: A Multifaceted National Security Threat'), ('body', <wagtail.rich\_text.RichText object at 0x3e1baea4ee20>), ('btn\_text', 'Download now'), ('href', 'https://services.google.com/fh/files/misc/cybercrime-multifaceted-national-security-threat.pdf'), ('image', <GAEImage: cybercrime-cover>)\])\]>
 
 Stand-Alone Cybercrime is a Threat to Countries' National Security
 ------------------------------------------------------------------
@@ -244,7 +242,7 @@ If a single ransomware-as-a-service provider is taken down, many others are alre
 
 aside\_block
 
-<ListValue: \[StructValue(\[('title', 'The Evolution of Cybercrime'), ('body', <wagtail.rich\_text.RichText object at 0x3e0350ed59a0>), ('btn\_text', 'Watch now'), ('href', 'https://www.youtube.com/watch?v=NtANWZPHUak'), ('image', <GAEImage: evolution of cybercrime>)\])\]>
+<ListValue: \[StructValue(\[('title', 'The Evolution of Cybercrime'), ('body', <wagtail.rich\_text.RichText object at 0x3e1baea4e640>), ('btn\_text', 'Watch now'), ('href', 'https://www.youtube.com/watch?v=NtANWZPHUak'), ('image', <GAEImage: evolution of cybercrime>)\])\]>
 
 About the Authors
 -----------------

@@ -1,8 +1,6 @@
 ---
 title: "Risky Biz News Most of 2023s top exploited vulnerabilities were initially zero-days"
 date: Wed, 13 Nov 2024 10:29:47 +1100
-draft: false
-type: posts
 summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
 categories: 
 - 

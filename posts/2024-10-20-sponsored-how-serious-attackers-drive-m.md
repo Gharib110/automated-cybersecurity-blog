@@ -1,8 +1,6 @@
 ---
 title: "Sponsored How serious attackers drive MFA adoption"
 date: Mon, 21 Oct 2024 09:02:40 +1100
-draft: false
-type: posts
 summary: " In this Risky Business News sponsored interview, Tom Uren talks to Brett Winterford, Okta’s APAC Chief Security Officer. Brett has mined Okta’s"
 categories: 
 - 

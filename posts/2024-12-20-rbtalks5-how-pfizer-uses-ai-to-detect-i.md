@@ -1,8 +1,6 @@
 ---
 title: "RBTALKS5 How Pfizer uses AI to detect insider risk"
 date: Fri, 20 Dec 2024 14:18:15 +1100
-draft: false
-type: posts
 summary: " Brian A. Coleman, Senior Director for Insider Risk, Information Security, and Digital Forensics at Pfizer, talks to us about how his security"
 categories: 
 - 

@@ -1,8 +1,6 @@
 ---
 title: "Risky Bulletin Research turns any Bluetooth device into an AirTag"
 date: Wed, 05 Mar 2025 12:02:45 +1100
-draft: false
-type: posts
 summary: " Researchers turn any Bluetooth device into an AirTag tracker, VMware patches three ESXi zero-days, France debates encryption backdoors, and a fifth of"
 categories: 
 - 

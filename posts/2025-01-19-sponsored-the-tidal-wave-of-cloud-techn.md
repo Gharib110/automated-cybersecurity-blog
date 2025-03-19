@@ -1,8 +1,6 @@
 ---
 title: "Sponsored The tidal wave of cloud technical debt"
 date: Mon, 20 Jan 2025 10:30:09 +1100
-draft: false
-type: posts
 summary: " In this Risky Bulletin sponsor interview, Travis McPeak, the CEO and founder of Resourcely, explains that companies are now realising they have"
 categories: 
 - 

@@ -1,8 +1,6 @@
 ---
 title: "Srsly Risky Biz DeepSeek a boon for Chinese APTs"
 date: Thu, 06 Feb 2025 12:21:34 +1100
-draft: false
-type: posts
 summary: " UPDATED AUDIO: An earlier version of this podcast audio contained an editing mistake that desynchronised Patrick and Tom’s audio. In this podcast Tom"
 categories: 
 - 

@@ -1,8 +1,6 @@
 ---
 title: "Sponsored GreyNoise on 2024s mass internet scan trends"
 date: Mon, 10 Mar 2025 09:34:04 +1100
-draft: false
-type: posts
 summary: " In this Risky Business News sponsor interview, Catalin Cimpanu talks with Andrew Morris, founder of security firm GreyNoise. Andrew talks about the"
 categories: 
 - 

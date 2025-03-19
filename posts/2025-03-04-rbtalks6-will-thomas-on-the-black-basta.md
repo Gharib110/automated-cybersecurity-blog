@@ -1,8 +1,6 @@
 ---
 title: "RBTALKS6 Will Thomas on the Black Basta leaks"
 date: Tue, 04 Mar 2025 15:52:56 +1100
-draft: false
-type: posts
 summary: " In this Risky Business Talks interview we invited Will Thomas to talk about the recent leak of internal chats from the Black"
 categories: 
 - 

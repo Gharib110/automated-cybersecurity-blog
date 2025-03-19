@@ -1,8 +1,6 @@
 ---
 title: "Risky Bulletin Germanys BSI sinkhole BADBOX malware"
 date: Fri, 13 Dec 2024 14:19:47 +1100
-draft: false
-type: posts
 summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
 categories: 
 - 

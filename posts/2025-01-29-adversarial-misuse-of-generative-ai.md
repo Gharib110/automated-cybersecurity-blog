@@ -1,8 +1,6 @@
 ---
 title: "Adversarial Misuse of Generative AI"
 date: Wed, 29 Jan 2025 14:00:00 +0000
-draft: false
-type: posts
 summary: "Rapid advancements in artificial intelligence (AI) are unlocking new possibilities for the way we work and accelerating innovation in science, technology, and beyond. In cybersecurity, AI is poised to transform digital defense, empowering defenders and enhancing our collective security. Large language models (LLMs) open new possibilities for defenders, from sifting"
 categories: 
 - Threat Intelligence
@@ -19,7 +17,7 @@ We believe the private sector, governments, educational institutions, and other 
 
 aside\_block
 
-<ListValue: \[StructValue(\[('title', 'Adversarial Misuse of Generative AI'), ('body', <wagtail.rich\_text.RichText object at 0x3e0350f6c0d0>), ('btn\_text', 'Download now'), ('href', 'https://services.google.com/fh/files/misc/adversarial-misuse-generative-ai.pdf'), ('image', <GAEImage: adversarial gen AI cover>)\])\]>
+<ListValue: \[StructValue(\[('title', 'Adversarial Misuse of Generative AI'), ('body', <wagtail.rich\_text.RichText object at 0x3e1bae7d38b0>), ('btn\_text', 'Download now'), ('href', 'https://services.google.com/fh/files/misc/adversarial-misuse-generative-ai.pdf'), ('image', <GAEImage: adversarial gen AI cover>)\])\]>
 
 Executive Summary
 -----------------

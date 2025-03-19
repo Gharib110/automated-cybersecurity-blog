@@ -1,8 +1,6 @@
 ---
 title: "Sponsored Nucleus Security on partners and integrations"
 date: Mon, 04 Nov 2024 08:25:29 +1100
-draft: false
-type: posts
 summary: " In this Risky Business News sponsor interview, Catalin Cimpanu talks with Adam Dudley, Senior Director for Strategic Initiatives &amp; Alliances at Nucleus"
 categories: 
 - 

@@ -1,8 +1,6 @@
 ---
 title: "Seeing Through a GLASSBRIDGE Understanding the Digital Marketing Ecosystem Spreading Pro-PRC Influence Operations"
 date: Fri, 22 Nov 2024 10:00:00 +0000
-draft: false
-type: posts
 summary: "Written by: Vanessa Molter Special thanks to Mandiant's Ryan Serabian for his contributions to this analysis. UPDATE (December 4): This blog post was updated to include example domains associated with GLASSBRIDGE. This blog post details GLASSBRIDGE—an umbrella group of four different companies that operate networks of inauthentic news sites and newswire services tracked"
 categories: 
 - Threat Intelligence

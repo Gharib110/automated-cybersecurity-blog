@@ -1,8 +1,6 @@
 ---
 title: "Srsly Risky Biz Why hack and leak is still a big deal"
 date: Thu, 05 Dec 2024 12:28:59 +1100
-draft: false
-type: posts
 summary: " In this podcast Tom Uren and Adam Boileau talk about the continued importance of hack and leak operations. They didn’t really affect"
 categories: 
 - 

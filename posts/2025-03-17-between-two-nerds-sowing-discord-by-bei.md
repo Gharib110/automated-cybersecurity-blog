@@ -1,8 +1,6 @@
 ---
 title: "Between Two Nerds Sowing discord by being nice"
 date: Tue, 18 Mar 2025 08:50:47 +1100
-draft: false
-type: posts
 summary: " In this edition of Between Two Nerds Tom Uren and The Grugq talk about how offensive cyber operations could do so much"
 categories: 
 - 

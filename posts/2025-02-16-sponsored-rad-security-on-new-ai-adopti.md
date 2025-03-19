@@ -1,8 +1,6 @@
 ---
 title: "Sponsored Rad Security on new AI adoption risks for enterprises"
 date: Mon, 17 Feb 2025 10:03:27 +1100
-draft: false
-type: posts
 summary: " In this Risky Business News sponsor interview, Catalin Cimpanu talks with Jimmy Mesta, CTO and Co-Founder of Rad Security (formerly KSOC). Jimmy"
 categories: 
 - 

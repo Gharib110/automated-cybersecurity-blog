@@ -1,8 +1,6 @@
 ---
 title: "Between Two Nerds A Paragon of virtue"
 date: Tue, 11 Feb 2025 08:39:41 +1100
-draft: false
-type: posts
 summary: " In this edition of Between Two Nerds Tom Uren and The Grugq talk about Israeli spyware vendor Paragon, how and why it"
 categories: 
 - 

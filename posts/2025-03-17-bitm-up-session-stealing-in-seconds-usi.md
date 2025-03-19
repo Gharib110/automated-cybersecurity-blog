@@ -1,8 +1,6 @@
 ---
 title: "BitM Up Session Stealing in Seconds Using the Browser-in-the-Middle Technique"
 date: Mon, 17 Mar 2025 05:00:00 +0000
-draft: false
-type: posts
 summary: "Written by: Truman Brown, Emily Astranova, Steven Karschnia, Jacob Paullus, Nick McClendon, Chris Higgins Executive Summary The Rise of Browser in the Middle (BitM): BitM attacks offer a streamlined approach, allowing attackers to quickly compromise sessions across various web applications. MFA Remains Crucial, But Not Invulnerable: Multi-factor authentication (MFA) is a vital security"
 categories: 
 - Threat Intelligence

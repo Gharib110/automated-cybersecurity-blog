@@ -1,8 +1,6 @@
 ---
 title: "Srsly Risky Biz Why America needs its own Salt Typhoon"
 date: Thu, 20 Feb 2025 14:46:47 +1100
-draft: false
-type: posts
 summary: " In this podcast Tom Uren and Patrick Gray talk about the idea of launching a retaliatory campaign to hack Chinese telcos in"
 categories: 
 - 

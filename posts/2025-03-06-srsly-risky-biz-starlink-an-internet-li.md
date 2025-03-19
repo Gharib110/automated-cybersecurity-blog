@@ -1,8 +1,6 @@
 ---
 title: "Srsly Risky Biz Starlink an internet lifeline for pig butchering compounds"
 date: Thu, 06 Mar 2025 14:07:47 +1100
-draft: false
-type: posts
 summary: " In this podcast Tom Uren and Patrick Gray discuss how Starlink is providing an internet lifeline for scam compounds that have had"
 categories: 
 - 

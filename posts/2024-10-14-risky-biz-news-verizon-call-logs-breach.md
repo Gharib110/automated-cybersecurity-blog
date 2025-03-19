@@ -1,8 +1,6 @@
 ---
 title: "Risky Biz News Verizon call logs breached"
 date: Mon, 14 Oct 2024 14:09:05 +1100
-draft: false
-type: posts
 summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
 categories: 
 - 

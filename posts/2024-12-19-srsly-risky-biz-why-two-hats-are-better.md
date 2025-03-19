@@ -1,8 +1,6 @@
 ---
 title: "Srsly Risky Biz Why two hats are better than two heads"
 date: Thu, 19 Dec 2024 12:26:29 +1100
-draft: false
-type: posts
 summary: " In this podcast Tom Uren and Patrick Gray talk about the likelihood that the incoming Trump administration will end the ‘dual-hat’ arrangement"
 categories: 
 - 

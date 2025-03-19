@@ -1,8 +1,6 @@
 ---
 title: "Risky Biz News iPhones are auto-rebooting to defeat law enforcement"
 date: Mon, 11 Nov 2024 13:13:47 +1100
-draft: false
-type: posts
 summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
 categories: 
 - 

@@ -1,8 +1,6 @@
 ---
 title: "ScatterBrain Unmasking the Shadow of PoisonPlugs Obfuscator"
 date: Tue, 28 Jan 2025 14:00:00 +0000
-draft: false
-type: posts
 summary: "Written by: Nino Isakovic Introduction Since 2022, Google Threat Intelligence Group (GTIG) has been tracking multiple cyber espionage operations conducted by China-nexus actors utilizing POISONPLUG.SHADOW. These operations employ a custom obfuscating compiler that we refer to as "ScatterBrain," facilitating attacks against various entities across Europe and the Asia Pacific (APAC) region. ScatterBrain"
 categories: 
 - Threat Intelligence

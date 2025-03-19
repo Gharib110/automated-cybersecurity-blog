@@ -1,8 +1,6 @@
 ---
 title: "Between Two Nerds Is 39 vulnerabilities a lot"
 date: Tue, 18 Feb 2025 07:09:56 +1100
-draft: false
-type: posts
 summary: " In this edition of Between Two Nerds Tom Uren and The Grugq talk about the United State’s Vulnerabilities Equities Program, which balances"
 categories: 
 - 

@@ -1,8 +1,6 @@
 ---
 title: "Between Two Nerds Cyber weapons"
 date: Tue, 19 Nov 2024 09:13:06 +1100
-draft: false
-type: posts
 summary: " In this edition of Between Two Nerds Tom Uren and The Grugq talk about what cyber weapons really are and why use"
 categories: 
 - 

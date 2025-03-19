@@ -1,8 +1,6 @@
 ---
 title: "Sponsored runZero on Inside-Out Attack Surface Management"
 date: Mon, 27 Jan 2025 10:28:26 +1100
-draft: false
-type: posts
 summary: " In this Risky Business News sponsor interview, Catalin Cimpanu talks with runZero founder and CEO HD Moore about the company’s latest capability,"
 categories: 
 - 

@@ -1,8 +1,6 @@
 ---
 title: "Between Two Nerds NSAs 9 to 5 hacking campaign"
 date: Tue, 04 Mar 2025 08:07:39 +1100
-draft: false
-type: posts
 summary: " In this edition of Between Two Nerds Tom Uren and The Grugq take a deep dive into incident response reports from Chinese"
 categories: 
 - 
