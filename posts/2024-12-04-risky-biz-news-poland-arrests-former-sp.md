@@ -1,12 +1,14 @@
 ---
 title: "Risky Biz News Poland arrests former spy chief in Pegasus scandal"
 date: Wed, 04 Dec 2024 11:16:45 +1100
-summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Risky Biz News Poland arrests former spy chief in Pegasus scandal
 
+<br/>
 
 <br/>
 A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.

@@ -1,12 +1,14 @@
 ---
 title: "Risky Bulletin Public transport in Tbilisi is free after anti-government hack"
 date: Mon, 27 Jan 2025 13:12:26 +1100
-summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Risky Bulletin Public transport in Tbilisi is free after anti-government hack
 
+<br/>
 
 <br/>
 A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.

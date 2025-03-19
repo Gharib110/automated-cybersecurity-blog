@@ -1,12 +1,14 @@
 ---
 title: "Risky Biz News Banshee Stealer shuts down after source code leak"
 date: Wed, 27 Nov 2024 13:50:29 +1100
-summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Risky Biz News Banshee Stealer shuts down after source code leak
 
+<br/>
 
 <br/>
 A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.

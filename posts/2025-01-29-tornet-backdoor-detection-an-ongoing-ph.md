@@ -1,12 +1,14 @@
 ---
 title: "TorNet Backdoor Detection An Ongoing Phishing Email Campaign Uses PureCrypter Malware to Drop Other Payloads"
 date: Wed, 29 Jan 2025 12:57:18 +0000
-summary: " Financially motivated hackers are behind an ongoing malicious campaign targeting Poland and Germany. These phishing attacks aim to deploy multiple payloads, including Agent Tesla, Snake Keylogger, and a novel backdoor dubbed TorNet, which is delivered via PureCrypter malware.&#160; Detect TorNet Backdoor A significant rise in phishing campaigns, with a 202%"
+draft: false
+type: posts
 categories: 
 - Blog,Latest Threats,Cyberattack,Detection Content,Malware,Phishing,Sigma,SOC Prime Platform,Threat Detection Marketplace,Threat Hunting Content
 ---
 # TorNet Backdoor Detection An Ongoing Phishing Email Campaign Uses PureCrypter Malware to Drop Other Payloads
 
+<br/>
 
 <br/>
 ![TorNet Backdoor Detection](https://socprime.com/wp-content/uploads/TorNet-Backdoor-400x234.jpg)

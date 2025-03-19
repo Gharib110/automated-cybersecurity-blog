@@ -1,12 +1,14 @@
 ---
 title: "Srsly Risky Biz Governments are losing the crypto wars"
 date: Thu, 13 Feb 2025 12:04:43 +1100
-summary: " In this podcast Tom Uren and Patrick Gray talk about Apple’s refusal to obey a UK government order to provide the capability"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Srsly Risky Biz Governments are losing the crypto wars
 
+<br/>
 
 <br/>
 In this podcast Tom Uren and Patrick Gray talk about Apple’s refusal to obey a UK government order to provide the capability to access to encrypted iCloud data. Its the latest round in the ongoing government vs technology fights over warrant-proof encryption, and again it looks like governments will lose.

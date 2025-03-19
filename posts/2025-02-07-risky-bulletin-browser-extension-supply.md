@@ -1,12 +1,14 @@
 ---
 title: "Risky Bulletin Browser extension supply chain attack hits AdsPower"
 date: Fri, 07 Feb 2025 13:03:23 +1100
-summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Risky Bulletin Browser extension supply chain attack hits AdsPower
 
+<br/>
 
 <br/>
 A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.

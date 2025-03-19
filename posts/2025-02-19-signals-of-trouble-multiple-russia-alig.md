@@ -1,12 +1,14 @@
 ---
 title: "Signals of Trouble Multiple Russia-Aligned Threat Actors Actively Targeting Signal Messenger"
 date: Wed, 19 Feb 2025 14:00:00 +0000
-summary: "Written by: Dan Black Google Threat Intelligence Group (GTIG) has observed increasing efforts from several Russia state-aligned threat actors to compromise Signal Messenger accounts used by individuals of interest to Russia's intelligence services. While this emerging operational interest has likely been sparked by wartime demands to gain access to sensitive government"
+draft: false
+type: posts
 categories: 
 - Threat Intelligence
 ---
 # Signals of Trouble Multiple Russia-Aligned Threat Actors Actively Targeting Signal Messenger
 
+<br/>
 
 <br/>
 Written by: Dan Black
@@ -199,7 +201,7 @@ Potential targets of government-backed intrusion activity targeting their person
 
 aside\_block
 
-<ListValue: \[StructValue(\[('title', 'More insights on this threat activity'), ('body', <wagtail.rich\_text.RichText object at 0x3e1badb3d910>), ('btn\_text', 'Listen now'), ('href', 'https://open.spotify.com/episode/3reADyxut9u4ueSPlCma8I'), ('image', <GAEImage: Defender's Advantage podcast>)\])\]>
+<ListValue: \[StructValue(\[('title', 'More insights on this threat activity'), ('body', <wagtail.rich\_text.RichText object at 0x3e770f8dd490>), ('btn\_text', 'Listen now'), ('href', 'https://open.spotify.com/episode/3reADyxut9u4ueSPlCma8I'), ('image', <GAEImage: Defender's Advantage podcast>)\])\]>
 
 Indicators of Compromise
 ------------------------

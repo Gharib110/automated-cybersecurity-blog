@@ -1,12 +1,14 @@
 ---
 title: "Risky Biz News Two arrests in Operation Magnus"
 date: Wed, 30 Oct 2024 10:28:43 +1100
-summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Risky Biz News Two arrests in Operation Magnus
 
+<br/>
 
 <br/>
 A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.

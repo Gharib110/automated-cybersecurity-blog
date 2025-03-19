@@ -1,12 +1,14 @@
 ---
 title: "Between Two Nerds Why the US is so uptight about cyber operations"
 date: Tue, 10 Dec 2024 08:38:08 +1100
-summary: " In this edition of Between Two Nerds Tom Uren and The Grugq talk about how states have very different approaches to controlling"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Between Two Nerds Why the US is so uptight about cyber operations
 
+<br/>
 
 <br/>
 In this edition of Between Two Nerds Tom Uren and The Grugq talk about how states have very different approaches to controlling cyber operations.

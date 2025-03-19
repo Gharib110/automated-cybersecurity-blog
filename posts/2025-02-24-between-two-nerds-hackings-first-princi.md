@@ -1,12 +1,14 @@
 ---
 title: "Between Two Nerds Hackings first principles"
 date: Tue, 25 Feb 2025 09:40:19 +1100
-summary: " In this edition of Between Two Nerds Tom, Uren and The Grugq examine the fundamental principles of network exploitation as described in"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Between Two Nerds Hackings first principles
 
+<br/>
 
 <br/>
 In this edition of Between Two Nerds Tom, Uren and The Grugq examine the fundamental principles of network exploitation as described in Matthew Monte’s ‘Network Attacks and Exploitation: A Framework’ book using recent hacks as case studies.

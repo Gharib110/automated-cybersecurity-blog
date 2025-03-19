@@ -1,12 +1,14 @@
 ---
 title: "Between Two Nerds A European cyber command"
 date: Tue, 11 Mar 2025 07:26:37 +1100
-summary: " In this edition of Between Two Nerds Tom Uren and The Grugq talk about what Europe should do given that US security"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Between Two Nerds A European cyber command
 
+<br/>
 
 <br/>
 In this edition of Between Two Nerds Tom Uren and The Grugq talk about what Europe should do given that US security guarantees are evaporating. Should Europe grow its cyber capabilities, what it would get out of it and how should it go about doing it?

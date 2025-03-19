@@ -1,12 +1,14 @@
 ---
 title: "Between Two Nerds How criminals are using deepfakes"
 date: Tue, 15 Oct 2024 08:36:02 +1100
-summary: " In this edition of Between Two Nerds Tom Uren and The Grugq talk about how criminals are using deepfakes… but it is"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Between Two Nerds How criminals are using deepfakes
 
+<br/>
 
 <br/>
 In this edition of Between Two Nerds Tom Uren and The Grugq talk about how criminals are using deepfakes… but it is not the end of the world.

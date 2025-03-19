@@ -1,12 +1,14 @@
 ---
 title: "Risky Bulletin US authorities sound the alarm on a medical device backdoor"
 date: Mon, 03 Feb 2025 11:08:15 +1100
-summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Risky Bulletin US authorities sound the alarm on a medical device backdoor
 
+<br/>
 
 <br/>
 A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.

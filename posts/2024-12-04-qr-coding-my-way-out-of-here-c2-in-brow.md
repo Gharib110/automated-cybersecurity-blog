@@ -1,12 +1,14 @@
 ---
 title: "QR Coding My Way Out of Here C2 in Browser Isolation Environments"
 date: Wed, 04 Dec 2024 14:00:00 +0000
-summary: "Written by: Thibault Van Geluwe de Berlaere Executive Summary Browser isolation is a security technology where web browsing activity is separated from the user's local device by running the browser in a secure environment, such as a cloud server or a virtual machine, and then streaming the visual content to the user's"
+draft: false
+type: posts
 categories: 
 - Threat Intelligence
 ---
 # QR Coding My Way Out of Here C2 in Browser Isolation Environments
 
+<br/>
 
 <br/>
 Written by: Thibault Van Geluwe de Berlaere

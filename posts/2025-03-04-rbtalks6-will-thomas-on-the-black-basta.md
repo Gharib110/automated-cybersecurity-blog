@@ -1,12 +1,14 @@
 ---
 title: "RBTALKS6 Will Thomas on the Black Basta leaks"
 date: Tue, 04 Mar 2025 15:52:56 +1100
-summary: " In this Risky Business Talks interview we invited Will Thomas to talk about the recent leak of internal chats from the Black"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # RBTALKS6 Will Thomas on the Black Basta leaks
 
+<br/>
 
 <br/>
 In this Risky Business Talks interview we invited Will Thomas to talk about the recent leak of internal chats from the Black Basta ransomware group. Will is a SANS Instructor, co-author of the SANS FOR589 course, and the co-founder of a community research project for CTI analysts called Curated Intelligence. Will walks us through the Black Basta leak and uses the group’s attack on US healthcare provider Ascension to break down how the gang operated.

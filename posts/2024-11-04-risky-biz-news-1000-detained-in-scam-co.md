@@ -1,12 +1,14 @@
 ---
 title: "Risky Biz News 1000 detained in scam compound raid"
 date: Mon, 04 Nov 2024 13:51:01 +1100
-summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Risky Biz News 1000 detained in scam compound raid
 
+<br/>
 
 <br/>
 A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.

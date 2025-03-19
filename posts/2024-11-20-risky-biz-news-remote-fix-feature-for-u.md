@@ -1,12 +1,14 @@
 ---
 title: "Risky Biz News Remote fix feature for unbootable PCs coming to Windows"
 date: Wed, 20 Nov 2024 14:04:24 +1100
-summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Risky Biz News Remote fix feature for unbootable PCs coming to Windows
 
+<br/>
 
 <br/>
 A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.

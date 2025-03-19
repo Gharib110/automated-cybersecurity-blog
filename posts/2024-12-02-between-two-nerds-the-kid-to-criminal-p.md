@@ -1,12 +1,14 @@
 ---
 title: "Between Two Nerds The kid to criminal pipeline"
 date: Tue, 03 Dec 2024 08:51:41 +1100
-summary: " In this edition of Between Two Nerds Tom Uren and The Grugq talk about how the opportunities for hackers have changed and"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Between Two Nerds The kid to criminal pipeline
 
+<br/>
 
 <br/>
 In this edition of Between Two Nerds Tom Uren and The Grugq talk about how the opportunities for hackers have changed and how that has altered the pipelines that turn kids into criminals.

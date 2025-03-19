@@ -1,12 +1,14 @@
 ---
 title: "Risky Biz News Four PR firms are behind a Chinese propaganda network"
 date: Mon, 25 Nov 2024 10:26:29 +1100
-summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Risky Biz News Four PR firms are behind a Chinese propaganda network
 
+<br/>
 
 <br/>
 A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.

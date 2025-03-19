@@ -1,12 +1,14 @@
 ---
 title: "Srsly Risky Biz EU lobs software liability hand grenade"
 date: Thu, 24 Oct 2024 12:42:42 +1100
-summary: " In this podcast Tom Uren, Patrick Gray and Adam Boileau talk about an EU directive that will make vendors liable for software"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Srsly Risky Biz EU lobs software liability hand grenade
 
+<br/>
 
 <br/>
 In this podcast Tom Uren, Patrick Gray and Adam Boileau talk about an EU directive that will make vendors liable for software defects. The directive sets a very high bar but is also limited in scope. It only applies to individuals and doesn’t cover professional use so it is a very practical way to start changing expectations about liability.

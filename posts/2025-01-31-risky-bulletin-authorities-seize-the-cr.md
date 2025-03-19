@@ -1,12 +1,14 @@
 ---
 title: "Risky Bulletin Authorities seize the Cracked and Nulled cybercrime forums"
 date: Fri, 31 Jan 2025 12:42:25 +1100
-summary: " A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Risky Bulletin Authorities seize the Cracked and Nulled cybercrime forums
 
+<br/>
 
 <br/>
 A short podcast updating listeners on the security news of the last few days, as prepared by Catalin Cimpanu and read by Claire Aird.

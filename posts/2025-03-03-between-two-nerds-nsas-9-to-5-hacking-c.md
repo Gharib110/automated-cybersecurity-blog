@@ -1,12 +1,14 @@
 ---
 title: "Between Two Nerds NSAs 9 to 5 hacking campaign"
 date: Tue, 04 Mar 2025 08:07:39 +1100
-summary: " In this edition of Between Two Nerds Tom Uren and The Grugq take a deep dive into incident response reports from Chinese"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Between Two Nerds NSAs 9 to 5 hacking campaign
 
+<br/>
 
 <br/>
 In this edition of Between Two Nerds Tom Uren and The Grugq take a deep dive into incident response reports from Chinese cybersecurity firms that attribute the hack of one of the country’s top seven defence universities to the US National Security Agency. These reports were collated and translated into English by the security researcher known as Inversecos (https://x.com/inversecos).

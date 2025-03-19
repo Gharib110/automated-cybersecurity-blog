@@ -1,12 +1,14 @@
 ---
 title: "Srsly Risky Biz When thuggery is your cyber talent pipeline"
 date: Thu, 17 Oct 2024 12:59:01 +1100
-summary: " In this podcast Tom Uren and Patrick Gray talk about the evolving relationship between Russian intelligence services and the country’s cybercriminals. The"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Srsly Risky Biz When thuggery is your cyber talent pipeline
 
+<br/>
 
 <br/>
 In this podcast Tom Uren and Patrick Gray talk about the evolving relationship between Russian intelligence services and the country’s cybercriminals. The GRU’s sabotage unit, for example, has been recruiting crooks to build a destructive cyber capability. Tom suspects that GRU thugs are not so good at hands-on-keyboard operations, but excellent at coercing weedy cybercriminals to hack for the state.

@@ -1,12 +1,14 @@
 ---
 title: "Sponsored Prowler on the Open Cloud Security Movement"
 date: Mon, 03 Mar 2025 09:52:58 +1100
-summary: " In this Risky Business News sponsor interview, Catalin Cimpanu talks with Toni de la Fuente, founder and CEO of cloud security firm"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Sponsored Prowler on the Open Cloud Security Movement
 
+<br/>
 
 <br/>
 In this Risky Business News sponsor interview, Catalin Cimpanu talks with Toni de la Fuente, founder and CEO of cloud security firm Prowler. Toni talks about his company’s latest effort, the Open Cloud Security Movement, an initiative to get more cloud security vendors to open-source their core projects.

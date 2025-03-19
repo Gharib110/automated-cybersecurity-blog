@@ -1,12 +1,14 @@
 ---
 title: "Srsly Risky Biz How Trump will drive covert operations"
 date: Thu, 14 Nov 2024 12:00:10 +1100
-summary: " In this podcast Tom Uren and Patrick Gray talk about what to expect from President Trump’s second term. Trump is an activist"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Srsly Risky Biz How Trump will drive covert operations
 
+<br/>
 
 <br/>
 In this podcast Tom Uren and Patrick Gray talk about what to expect from President Trump’s second term. Trump is an activist president who believes in using state power, so intelligence agencies will be pushed to conduct more audacious or even outrageous covert operations.

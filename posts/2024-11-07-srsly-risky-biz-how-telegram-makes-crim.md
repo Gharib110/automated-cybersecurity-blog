@@ -1,12 +1,14 @@
 ---
 title: "Srsly Risky Biz How Telegram makes criminal enterprise easy"
 date: Thu, 07 Nov 2024 13:36:50 +1100
-summary: " In this podcast Tom Uren and Patrick Gray talk about the Snowflake hack after the person allegedly responsible was arrested in Canada."
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Srsly Risky Biz How Telegram makes criminal enterprise easy
 
+<br/>
 
 <br/>
 In this podcast Tom Uren and Patrick Gray talk about the Snowflake hack after the person allegedly responsible was arrested in Canada. Telegram is involved at all sorts of levels and Tom wonders if this crime would have occurred if Telegram didn’t exist.

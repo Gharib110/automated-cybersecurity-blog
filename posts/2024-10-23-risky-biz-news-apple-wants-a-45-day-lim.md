@@ -1,12 +1,14 @@
 ---
 title: "Risky Biz News Apple wants a 45 day limit on TLS certificates"
 date: Wed, 23 Oct 2024 14:35:11 +1100
-summary: " This episode previously referred to a 10 day limit, but we read the wrong bit of a table. This has been corrected"
+draft: false
+type: posts
 categories: 
 - 
 ---
 # Risky Biz News Apple wants a 45 day limit on TLS certificates
 
+<br/>
 
 <br/>
 _This episode previously referred to a 10 day limit, but we read the wrong bit of a table. This has been corrected in the title to 45 days, but the podcast audio still refers to the incorrect 10 day maximum age. Sorry!_

@@ -1,12 +1,14 @@
 ---
 title: "Bridging the Gap Elevating Red Team Assessments with Application Security Testing"
 date: Thu, 05 Dec 2024 14:00:00 +0000
-summary: "Written by: Ilyass El Hadi, Louis Dion-Marcil, Charles Prevost Executive Summary Whether through a comprehensive Red Team engagement or a targeted external assessment, incorporating application security (AppSec) expertise enables organizations to better simulate the tactics and techniques of modern adversaries. This includes: Leveraging minimal access for maximum impact: There is no need for high"
+draft: false
+type: posts
 categories: 
 - Threat Intelligence
 ---
 # Bridging the Gap Elevating Red Team Assessments with Application Security Testing
 
+<br/>
 
 <br/>
 Written by: Ilyass El Hadi, Louis Dion-Marcil, Charles Prevost
