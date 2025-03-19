@@ -1,15 +1,16 @@
 ---
-title: Cool kids pop a programmers calc in their demos
+title: "Cool kids pop a programmers calc in their demos"
 date: 2011-07-20T09:27:00.000-04:00
 draft: false
 type: posts
-summary: Over time, I've heard several well-respected security professionals mention that you're not really cool unless you can pop a scientific/programmer's calculator when demoing your exploits. I mean, what right does a standard, run of the mill calculator have showing its face to a crowd of enthralled conference attendees watching the
-categories: shellcode
+summary: "Over time, I've heard several well-respected security professionals mention that you're not really cool unless you can pop a scientific/programmer's calculator when demoing your exploits. I mean, what right does a standard, run of the mill calculator have showing its face to a crowd of enthralled conference attendees watching the"
+categories: 
+- shellcode
 ---
 # Cool kids pop a programmers calc in their demos
- <br/>
- <br/>
 
+
+<br/>
 Over time, I've heard several well-respected security professionals mention that you're not really cool unless you can pop a scientific/programmer's calculator when demoing your exploits. I mean, what right does a standard, run of the mill calculator have showing its face to a crowd of enthralled conference attendees watching the latest version of Windows 7 get totally pwned? And how many self-respecting security folks use a standard calc more than the programmer's calc? So rather than waste the time of the people who thought this would be cool, I thought it would be better to waste my own time to complete this silly challenge. So without further ado, prepare to do some hexadecimal math. I'd like to mention that Jacob Appelbaum (@ioerror) and Aaron Portnoy (@aaronportnoy) inspired me to write this. ;D
 
   
@@ -90,5 +91,4 @@ References:
 ![](https://blogger.googleusercontent.com/tracker/6052198192158185644-282741896559422533?l=exploit-monday.com)
 
 <br/>
-Source: /feeds/282741896559422533/comments/default
 ---

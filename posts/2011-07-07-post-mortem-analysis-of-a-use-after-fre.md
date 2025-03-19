@@ -1,15 +1,16 @@
 ---
-title: Post-mortem Analysis of a Use-After-Free Vulnerability CVE-2011-1260
+title: "Post-mortem Analysis of a Use-After-Free Vulnerability CVE-2011-1260"
 date: 2011-07-07T13:00:00.006-04:00
 draft: false
 type: posts
-summary: Recently, I've been looking into the exploitation of use-after-free vulnerabilities. This class of bug is very application specific, but armed with just the right amount of knowledge these vulnerabilities can be exploited to bypass most modern OS exploit mitigations. After reading Nephi Johnson's (@d0c_s4vage) excellent article[1] on exploiting an IE
-categories: use-after-free,reverse engineering
+summary: "Recently, I've been looking into the exploitation of use-after-free vulnerabilities. This class of bug is very application specific, but armed with just the right amount of knowledge these vulnerabilities can be exploited to bypass most modern OS exploit mitigations. After reading Nephi Johnson's (@d0c_s4vage) excellent article[1] on exploiting an IE"
+categories: 
+- use-after-free,reverse engineering
 ---
 # Post-mortem Analysis of a Use-After-Free Vulnerability CVE-2011-1260
- <br/>
- <br/>
 
+
+<br/>
 Recently, I've been looking into the exploitation of use-after-free vulnerabilities. This class of bug is very application specific, but armed with just the right amount of knowledge these vulnerabilities can be exploited to bypass most modern OS exploit mitigations. After reading Nephi Johnson's (@d0c\_s4vage) excellent article\[[1](#3_1)\] on exploiting an IE use-after-free vulnerability, I decided to ride his coattails and show the steps I used to analyze his proof-of-concept crash code.  
   
 As shown in his blog post, here is Nephi's test case that crashes IE:  
@@ -99,5 +100,4 @@ June 16, 2011, http://d0cs4vage.blogspot.com/2011/06/insecticides-dont-kill-bugs
 ![](https://blogger.googleusercontent.com/tracker/6052198192158185644-5403222886475465556?l=exploit-monday.com)
 
 <br/>
-Source: /feeds/5403222886475465556/comments/default
 ---

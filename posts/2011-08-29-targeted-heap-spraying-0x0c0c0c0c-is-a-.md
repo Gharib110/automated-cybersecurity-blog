@@ -1,15 +1,16 @@
 ---
-title: Targeted Heap Spraying 0x0c0c0c0c is a Thing of the Past
+title: "Targeted Heap Spraying 0x0c0c0c0c is a Thing of the Past"
 date: 2011-08-29T11:01:00.000-04:00
 draft: false
 type: posts
-summary:  Normal 0 false false false EN-US X-NONE
+summary: " Normal 0 false false false EN-US X-NONE"
 categories: 
+- 
 ---
 # Targeted Heap Spraying 0x0c0c0c0c is a Thing of the Past
- <br/>
- <br/>
 
+
+<br/>
   
 
 Traditionally, heap spraying has relied upon spraying with 0x0C0C0C0C followed by shellcode which serves as both an address in the heap and a series of nops. This however is not extremely reliable. You have to be lucky enough to not land on a heap header or somewhere in your shellcode. Additionally, the latest version of EMET now prevents the execution of address 0x0C0C0C0C or any other arbitrary address specified in the registry. While this is a futile attempt to prevent heap spraying, it will require another method to reliably execute shellcode in the heap. Rather, there is a method that allows you to reliably allocate shellcode that is both in a predictable location and memory page-aligned (64K-aligned).
@@ -350,5 +351,4 @@ So why is this technique so useful? This method of heap spraying is perfect when
 ![](https://blogger.googleusercontent.com/tracker/6052198192158185644-5391545886505722735?l=exploit-monday.com)
 
 <br/>
-Source: /feeds/5391545886505722735/comments/default
 ---

@@ -1,15 +1,16 @@
 ---
-title: Stealth Alternate Data Streams and Other ADS Weirdness
+title: "Stealth Alternate Data Streams and Other ADS Weirdness"
 date: 2011-09-20T09:25:00.000-04:00
 draft: false
 type: posts
-summary: I was reading an article on MSDN regarding the naming of files, paths, and namespaces[1] and I discovered some interesting peculiarities regarding the naming and creation of certain files containing alternate data streams.I started by playing around with naming files based upon reserved device names "CON, PRN, AUX, NUL, COM1,
-categories: Alternate Data Streams
+summary: "I was reading an article on MSDN regarding the naming of files, paths, and namespaces[1] and I discovered some interesting peculiarities regarding the naming and creation of certain files containing alternate data streams.I started by playing around with naming files based upon reserved device names "CON, PRN, AUX, NUL, COM1,"
+categories: 
+- Alternate Data Streams
 ---
 # Stealth Alternate Data Streams and Other ADS Weirdness
- <br/>
- <br/>
 
+
+<br/>
 I was reading an article on MSDN regarding the naming of files, paths, and namespaces\[[1](#8_1)\] and I discovered some interesting peculiarities regarding the naming and creation of certain files containing alternate data streams.  
   
 I started by playing around with naming files based upon reserved device names "CON, PRN, AUX, NUL, COM1, LPT1, etc." As an example:
@@ -105,5 +106,4 @@ The bottom line: these techniques would serve as both a good malware persistence
 ![](https://blogger.googleusercontent.com/tracker/6052198192158185644-3478590721505682921?l=exploit-monday.com)
 
 <br/>
-Source: /feeds/3478590721505682921/comments/default
 ---

@@ -1,15 +1,16 @@
 ---
-title: Dropping Executables with Powershell
+title: "Dropping Executables with Powershell"
 date: 2011-09-14T18:51:00.000-04:00
 draft: false
 type: posts
-summary: Scenario: You find yourself in a limited Windows user environment without the ability to transfer binary files over the network for one reason or another. So this rules out using a browser, ftp.exe, mspaint (yes, mspaint can be used to transfer binaries), etc. for file transfer. Suppose this workstation isn't
-categories: powershell
+summary: "Scenario: You find yourself in a limited Windows user environment without the ability to transfer binary files over the network for one reason or another. So this rules out using a browser, ftp.exe, mspaint (yes, mspaint can be used to transfer binaries), etc. for file transfer. Suppose this workstation isn't"
+categories: 
+- powershell
 ---
 # Dropping Executables with Powershell
- <br/>
- <br/>
 
+
+<br/>
 Scenario: You find yourself in a limited Windows user environment without the ability to transfer binary files over the network for one reason or another. So this rules out using a browser, ftp.exe, mspaint (yes, mspaint can be used to transfer binaries), etc. for file transfer. Suppose this workstation isn't even connected to the Internet. What existing options do you have to drop binaries on the target machine? There's the tried and true debug.exe method of assembling a text file with your payload. This method limits the size of your executable to 64K however since debug.exe is a 16-bit application. Also, Microsoft has since removed debug from recent versions of Windows. Also, Didier Stevens showed how easy it to embed executables in PDFs\[[1](#7_1)\]. You can convert executables to VBscript and embed in Office documents as well. These apps won't necessarily be installed on every machine. Fortunately, Starting with Windows 7 and Server 2008, Powershell is installed by default.  
   
 Because Powershell implements the .NET framework, you have an incredible amount of power at your fingertips. I will demonstrate one use case whereby you can create an executable from a text file consisting of a hexadecimal representation of an executable. You can generate this text file using any compiled/scripting language you wish but since we're on the topic, I'll show you how to generate it in Powershell:
@@ -49,5 +50,4 @@ While writing this article, I stumbled upon Dave Kennedy and Josh Kelley's work 
 ![](https://blogger.googleusercontent.com/tracker/6052198192158185644-790343886359711055?l=exploit-monday.com)
 
 <br/>
-Source: /feeds/790343886359711055/comments/default
 ---

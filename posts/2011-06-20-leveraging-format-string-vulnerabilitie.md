@@ -1,15 +1,16 @@
 ---
-title: Leveraging format string vulnerabilities to interrogate Win32 process memory
+title: "Leveraging format string vulnerabilities to interrogate Win32 process memory"
 date: 2011-06-20T18:19:00.012-04:00
 draft: false
 type: posts
-summary: Although format string vulnerabilities aren't seen as much in the wild these days since they are so easy to spot in source code, I'd like to use this class of vulnerability to demonstrate what information can be inferred from a memory leak. Format string vulnerabilities open a window into the
-categories: ASLR,memory leaks,format string vulnerabilities
+summary: "Although format string vulnerabilities aren't seen as much in the wild these days since they are so easy to spot in source code, I'd like to use this class of vulnerability to demonstrate what information can be inferred from a memory leak. Format string vulnerabilities open a window into the"
+categories: 
+- ASLR,memory leaks,format string vulnerabilities
 ---
 # Leveraging format string vulnerabilities to interrogate Win32 process memory
- <br/>
- <br/>
 
+
+<br/>
 Although format string vulnerabilities aren't seen as much in the wild these days since they are so easy to spot in source code, I'd like to use this class of vulnerability to demonstrate what information can be inferred from a memory leak. Format string vulnerabilities open a window into the stack, allowing you to interrogate process memory. As a case study I'll be utilizing a format string vulnerability in a Windows utility that has persisted since the dawn of unix time - sort.
 
   
@@ -471,5 +472,4 @@ Links for reference:
 ![](https://blogger.googleusercontent.com/tracker/6052198192158185644-5818290250132367839?l=exploit-monday.com)
 
 <br/>
-Source: /feeds/5818290250132367839/comments/default
 ---

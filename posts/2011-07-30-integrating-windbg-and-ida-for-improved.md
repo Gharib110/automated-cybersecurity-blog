@@ -1,15 +1,16 @@
 ---
-title: Integrating WinDbg and IDA for Improved Code Flow Analysis
+title: "Integrating WinDbg and IDA for Improved Code Flow Analysis"
 date: 2011-07-30T13:29:00.000-04:00
 draft: false
 type: posts
-summary: IDA is hands down the best tool for static analysis. Its debugger on the other hand, when compared to the power of WinDbg is certainly lacking, IMHO. As such, I find myself wasting too much time switching between windows and manually highlighting and commenting instructions in IDA as I trace
+summary: "IDA is hands down the best tool for static analysis. Its debugger on the other hand, when compared to the power of WinDbg is certainly lacking, IMHO. As such, I find myself wasting too much time switching between windows and manually highlighting and commenting instructions in IDA as I trace"
 categories: 
+- 
 ---
 # Integrating WinDbg and IDA for Improved Code Flow Analysis
- <br/>
- <br/>
 
+
+<br/>
 IDA is hands down the best tool for static analysis. Its debugger on the other hand, when compared to the power of WinDbg is certainly lacking, IMHO. As such, I find myself wasting too much time switching between windows and manually highlighting and commenting instructions in IDA as I trace through them in WinDbg. Fortunately, the power of IDApython can be unleashed to reduce this tedium.
 
   
@@ -134,5 +135,4 @@ References:
 ![](https://blogger.googleusercontent.com/tracker/6052198192158185644-545479141637046610?l=exploit-monday.com)
 
 <br/>
-Source: /feeds/545479141637046610/comments/default
 ---
