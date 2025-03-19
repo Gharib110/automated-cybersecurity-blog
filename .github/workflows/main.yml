@@ -18,4 +18,4 @@ jobs:
         with:
           feed_urls_file: 'feed_urls.txt'
           template_file: 'assets/template.md'
-          output_dir: '_posts/events/'
+          output_dir: 'posts/'
