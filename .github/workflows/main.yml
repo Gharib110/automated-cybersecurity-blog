@@ -1,0 +1,21 @@
+name: RSS Feed to Markdown
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  convert_feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Run RSS Feed to Markdown Action
+        uses: keiranlovett/rss-feed-to-markdown@v1.2.0
+        with:
+          feed_urls_file: 'feed_urls.txt'
+          template_file: 'assets/template.md'
+          output_dir: '_posts/events/'
