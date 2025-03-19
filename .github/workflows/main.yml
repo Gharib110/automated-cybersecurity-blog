@@ -19,3 +19,10 @@ jobs:
           feed_urls_file: 'feed_urls.txt'
           template_file: 'assets/template.md'
           output_dir: 'posts/'
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add posts/
+          git commit -m "Update RSS feed posts" || echo "No changes to commit"
+          git push
