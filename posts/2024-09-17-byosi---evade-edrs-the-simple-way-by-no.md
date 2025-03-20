@@ -66,6 +66,6 @@ hello sentinel one :) might want to make sure that you are making links not embe
 
 **[Download BYOSI](https://github.com/oldkingcone/BYOSI "Download BYOSI")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/09/byosi-evade-edrs-simple-way-by-not.html)
+<br/>
 ---

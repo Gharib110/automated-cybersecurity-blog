@@ -201,7 +201,7 @@ Potential targets of government-backed intrusion activity targeting their person
 
 aside\_block
 
-<ListValue: \[StructValue(\[('title', 'More insights on this threat activity'), ('body', <wagtail.rich\_text.RichText object at 0x3ef561e8d520>), ('btn\_text', 'Listen now'), ('href', 'https://open.spotify.com/episode/3reADyxut9u4ueSPlCma8I'), ('image', <GAEImage: Defender's Advantage podcast>)\])\]>
+<ListValue: \[StructValue(\[('title', 'More insights on this threat activity'), ('body', <wagtail.rich\_text.RichText object at 0x3e1baef3ca90>), ('btn\_text', 'Listen now'), ('href', 'https://open.spotify.com/episode/3reADyxut9u4ueSPlCma8I'), ('image', <GAEImage: Defender's Advantage podcast>)\])\]>
 
 Indicators of Compromise
 ------------------------
@@ -346,6 +346,6 @@ Use of Robocopy to stage Signal Desktop file directories for exfiltration
 
 Table 2: Summary of observed threat activity targeting Signal messages
 
-<br/>
 [Source](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger/)
+<br/>
 ---

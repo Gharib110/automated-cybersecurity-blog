@@ -84,6 +84,6 @@ The existence of bugs is to be expected, but the attitude of Skiffs CEO towards 
 
 They have fixed the IP address leak on iOS. No sign of users being informed of their exposure. Other issues remain.
 
-<br/>
 [Source](https://www.grepular.com/Skiff_Emails_Various_Privacy_Failures)
+<br/>
 ---

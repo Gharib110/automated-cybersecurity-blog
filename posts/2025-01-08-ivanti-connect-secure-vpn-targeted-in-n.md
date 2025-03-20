@@ -787,6 +787,6 @@ Jan. 17, 2025
 
 Attribution updated to UNC5221
 
-<br/>
 [Source](https://cloud.google.com/blog/topics/threat-intelligence/ivanti-connect-secure-vpn-zero-day/)
+<br/>
 ---

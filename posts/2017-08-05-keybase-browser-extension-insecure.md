@@ -71,6 +71,6 @@ The troubling thing is, they could actually have made this secure. As well as th
 
 [![](https://www.grepular.com/images/amazon/yubikey_nano.jpg)](https://www.grepular.com/redir?key=amazon_yubikey_nano "Yubikey Nano") [![](https://www.grepular.com/images/amazon/saving_bletchley_park.jpg)](https://www.grepular.com/redir?key=amazon_saving_bletchley_park "Saving Bletchley Park")
 
-<br/>
 [Source](https://www.grepular.com/Keybase_Browser_Extension_Insecure)
+<br/>
 ---

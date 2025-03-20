@@ -32,6 +32,6 @@ Pip-Intel utilizes Python-written pip packages to gather information from variou
 
 **[Download Pip-Intel](https://github.com/emrekybs/Pip-Intel "Download Pip-Intel")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/06/pip-intel-osint-and-cyber-intelligence.html)
+<br/>
 ---

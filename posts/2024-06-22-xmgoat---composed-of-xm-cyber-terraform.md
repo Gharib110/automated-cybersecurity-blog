@@ -88,6 +88,6 @@ $ terraform destroy
 
 **[Download XMGoat](https://github.com/XMCyber/XMGoat "Download XMGoat")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/06/xmgoat-composed-of-xm-cyber-terraform.html)
+<br/>
 ---

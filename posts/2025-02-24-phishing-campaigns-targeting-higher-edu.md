@@ -157,6 +157,6 @@ Detection
 
 To assist the wider community in hunting and identifying activity outlined in this blog post, we have included a subset of these indicators of compromise (IOCs) in this post, and in a [GTI Collection](https://www.virustotal.com/gui/collection/3d63c3becd21c1869de40e0efb45fbae0a76f2ec5cd437a444ff5c35c09d8000/summary) for registered users.
 
-<br/>
 [Source](https://cloud.google.com/blog/topics/threat-intelligence/phishing-targeting-higher-education/)
+<br/>
 ---

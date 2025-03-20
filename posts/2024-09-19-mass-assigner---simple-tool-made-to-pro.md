@@ -72,6 +72,6 @@ python3 mass_assigner.py --fetch-from "http://example.com/api/v1/me" --target-re
 
 **[Download Mass-Assigner](https://github.com/Sn1r/Mass-Assigner "Download Mass-Assigner")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/09/mass-assigner-simple-tool-made-to-probe.html)
+<br/>
 ---

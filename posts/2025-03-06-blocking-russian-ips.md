@@ -32,6 +32,6 @@ Now for each of the vhosts in /etc/conf.d/sites-enabled/ that you want to block 
 
 You can test what your website looks like from different IPs using [https://geotargetly.com/geo-browse](https://geotargetly.com/geo-browse)
 
-<br/>
 [Source](https://www.grepular.com/Blocking_Russian_IPs)
+<br/>
 ---

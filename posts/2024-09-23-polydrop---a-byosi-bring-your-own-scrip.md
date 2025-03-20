@@ -130,6 +130,6 @@ In case you are seeing all of the default declarations, and wondering wtf guys. 
 
 **[Download PolyDrop](https://github.com/MalwareSupportGroup/PolyDrop "Download PolyDrop")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/09/polydrop-byosi-bring-your-own-script.html)
+<br/>
 ---

@@ -256,6 +256,6 @@ After previous steps we have all that is necessary to create the Minidump file. 
 
 **[Download NativeDump](https://github.com/ricardojoserf/NativeDump "Download NativeDump")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/06/nativedump-dump-lsass-using-only-native.html)
+<br/>
 ---

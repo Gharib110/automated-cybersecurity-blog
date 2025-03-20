@@ -383,6 +383,6 @@ Credits / References
 
 **[Download BokuLoader](https://github.com/boku7/BokuLoader "Download BokuLoader")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/06/bokuloader-proof-of-concept-cobalt.html)
+<br/>
 ---

@@ -840,6 +840,6 @@ dsize:>27; content:"|c5 c4 ec 4d|"; offset: 0; depth:4; content:"|a6 04 ed 83
 limit,track by_src,count 1,seconds 3600; sid:1000003; rev:1; )
 ```
 
-<br/>
 [Source](https://cloud.google.com/blog/topics/threat-intelligence/china-nexus-espionage-targets-juniper-routers/)
+<br/>
 ---

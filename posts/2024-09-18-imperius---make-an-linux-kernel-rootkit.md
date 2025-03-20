@@ -37,6 +37,6 @@ OBS: There is another trick of removing/defusing a LKM rootkit, but it will be i
 
 **[Download Imperius](https://github.com/MatheuZSecurity/Imperius "Download Imperius")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/09/imperius-make-linux-kernel-rootkit.html)
+<br/>
 ---

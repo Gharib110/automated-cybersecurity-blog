@@ -77,6 +77,6 @@ Looking Ahead
 
 Backscatter stands as a testament to Google SecOps' commitment to providing cutting-edge tools for combating cyber threats. By offering a fast and efficient way to extract IOCs through static analysis, Backscatter empowers security teams to stay one step ahead of attackers. Incorporating Backscatter into their workflow, Google Threat Intelligence customers can strengthen their cybersecurity defenses and safeguard their valuable assets.
 
-<br/>
 [Source](https://cloud.google.com/blog/topics/threat-intelligence/backscatter-automated-configuration-extraction/)
+<br/>
 ---

@@ -37,6 +37,6 @@ podman run --rm -w /x -v "$PWD:/x" -w /x "localhost/youtube-dl" "$@"
 
 Some might even argue that it’s more readable. But then I have to worry about escaping parts of the inline Dockerfile, and I lose my IDE’s Dockerfile linting support too.
 
-<br/>
 [Source](https://www.grepular.com/Self_Building_and_Executing_Dockerfiles)
+<br/>
 ---

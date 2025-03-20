@@ -242,6 +242,6 @@ Acknowledgements
 
 Special thanks to Matt Holley, Mohamed El-Banna, Robert Wallace, and Adrian Hernandez.
 
-<br/>
 [Source](https://cloud.google.com/blog/topics/threat-intelligence/rosetta2-artifacts-macos-intrusions/)
+<br/>
 ---

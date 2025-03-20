@@ -132,6 +132,6 @@ An installation walkthrough, how-to guides for adding new operations and themes,
 
 **[Download CyberChef](https://github.com/gchq/CyberChef "Download CyberChef")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/06/cyberchef-cyber-swiss-army-knife-web.html)
+<br/>
 ---

@@ -156,6 +156,6 @@ Inspired by every single repo listed [here](https://github.com/mxm0z/awesome-sec
 
 **[Download CloudBrute](https://github.com/0xsha/CloudBrute "Download CloudBrute")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/06/cloudbrute-awesome-cloud-enumerator.html)
+<br/>
 ---

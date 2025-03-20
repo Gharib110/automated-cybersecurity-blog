@@ -241,6 +241,6 @@ These are the few locations where `sttr` was highlighted, many thanks to all of 
 
 **[Download Sttr](https://github.com/abhimanyu003/sttr "Download Sttr")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/06/sttr-cross-platform-cli-app-to-perform.html)
+<br/>
 ---

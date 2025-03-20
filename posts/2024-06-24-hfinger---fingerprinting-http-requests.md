@@ -130,6 +130,6 @@ The modes consist of features (in the order of appearance in the fingerprint): \
 
 **[Download Hfinger](https://github.com/CERT-Polska/hfinger "Download Hfinger")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/06/hfinger-fingerprinting-http-requests.html)
+<br/>
 ---

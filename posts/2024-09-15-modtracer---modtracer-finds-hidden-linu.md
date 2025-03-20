@@ -26,6 +26,6 @@ Another way to make an LKM visible is using the imperius trick: [https://github.
 
 **[Download ModTracer](https://github.com/MatheuZSecurity/ModTracer "Download ModTracer")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/09/modtracer-modtracer-finds-hidden-linux.html)
+<br/>
 ---

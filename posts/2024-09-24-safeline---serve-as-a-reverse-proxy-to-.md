@@ -84,6 +84,6 @@ List of the main features as follows:
 
 **[Download SafeLine](https://github.com/chaitin/SafeLine "Download SafeLine")**
 
-<br/>
 [Source](http://www.kitploit.com/2024/09/safeline-serve-as-reverse-proxy-to.html)
+<br/>
 ---
