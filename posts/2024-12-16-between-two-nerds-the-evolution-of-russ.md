@@ -18,4 +18,5 @@ This episode is also available on [Youtube](https://youtu.be/e49QGvfSWoU).
 ### Show notes
 
 <br/>
+[Source](https://risky.biz/BTN105/)
 ---

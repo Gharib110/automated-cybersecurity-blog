@@ -18,4 +18,5 @@ In this Risky Business News sponsor interview, Catalin Cimpanu talks with runZer
 -   [Inside-Out Attack Surface Management: Identify the risk before hackers bridge the gap](https://www.runzero.com/blog/inside-out-attack-surface-management/)
 
 <br/>
+[Source](https://risky.biz/RBNEWSSI69/)
 ---

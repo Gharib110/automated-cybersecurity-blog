@@ -210,4 +210,5 @@ Acknowledgments
 We extend our gratitude to the Microsoft Time Travel Debugging team for their readiness and support in addressing the issues we reported. Their prompt and clear communication not only resolved the bugs but also underscored their commitment to keeping TTD robust and reliable. We further appreciate that they have made TTD publicly available—a resource invaluable for both troubleshooting and advancing Windows security research.
 
 <br/>
+[Source](https://cloud.google.com/blog/topics/threat-intelligence/ttd-instruction-emulation-bugs/)
 ---

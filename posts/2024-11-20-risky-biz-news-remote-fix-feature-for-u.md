@@ -20,4 +20,5 @@ You can find the newsletter version of this podcast [here](https://news.risky.bi
 -   [Risky Biz News: Microsoft announces Quick Machine Recovery, a feature to fix future CrowdStrike disasters](https://news.risky.biz/risky-biz-news-microsoft-announces-quick-machine-recovery-a-feature-to-fix-future-crowdstrike-disasters/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS363/)
 ---

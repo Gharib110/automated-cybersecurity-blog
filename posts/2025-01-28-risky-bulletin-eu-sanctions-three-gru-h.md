@@ -18,4 +18,5 @@ A short podcast updating listeners on the security news of the last few days, as
 -   [Risky Bulletin: EU sanctions three GRU hackers](https://risky.biz/risky-bulletin-eu-sanctions-three-gru-hackers/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS382/)
 ---

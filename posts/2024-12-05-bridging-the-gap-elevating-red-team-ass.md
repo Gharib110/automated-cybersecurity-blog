@@ -203,4 +203,5 @@ This integrated approach is not limited to Red Team engagements. Organizations w
 Whether through a comprehensive Red Team engagement or a targeted external assessment, incorporating application security expertise enables organizations to better simulate the tactics and techniques of modern adversaries.
 
 <br/>
+[Source](https://cloud.google.com/blog/topics/threat-intelligence/red-team-application-security-testing/)
 ---

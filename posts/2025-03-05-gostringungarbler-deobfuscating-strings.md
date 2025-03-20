@@ -26,7 +26,7 @@ We're also introducing GoStringUngarbler, a command-line tool written in Python 
 
 aside\_block
 
-<ListValue: \[StructValue(\[('title', 'Get GoStringUngarbler!'), ('body', <wagtail.rich\_text.RichText object at 0x3e1bb0482e20>), ('btn\_text', 'Download now'), ('href', 'https://github.com/mandiant/gostringungarbler'), ('image', None)\])\]>
+<ListValue: \[StructValue(\[('title', 'Get GoStringUngarbler!'), ('body', <wagtail.rich\_text.RichText object at 0x3e1bb251c7c0>), ('btn\_text', 'Download now'), ('href', 'https://github.com/mandiant/gostringungarbler'), ('image', None)\])\]>
 
 Garble Obfuscating Compiler
 ---------------------------
@@ -590,4 +590,5 @@ Additional thanks to [OALabs](https://www.openanalysis.net/) for their valuable 
 Finally, we want to acknowledge the developers of garble for their outstanding work on this obfuscating compiler. Their contributions to the software protection field have greatly advanced both offensive and defensive security research on Go binary analysis.
 
 <br/>
+[Source](https://cloud.google.com/blog/topics/threat-intelligence/gostringungarbler-deobfuscating-strings-in-garbled-binaries/)
 ---

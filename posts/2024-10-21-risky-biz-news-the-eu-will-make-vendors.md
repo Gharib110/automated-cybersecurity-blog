@@ -20,4 +20,5 @@ You can find the newsletter version of this podcast [here](https://news.risky.bi
 -   [Risky Biz News: The EU will make vendors liable for bugs](https://news.risky.biz/risky-biz-news-the-eu-will-make-vendors-liable-for-bugs/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS350/)
 ---

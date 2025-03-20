@@ -19,7 +19,7 @@ We believe the private sector, governments, educational institutions, and other 
 
 aside\_block
 
-<ListValue: \[StructValue(\[('title', 'Adversarial Misuse of Generative AI'), ('body', <wagtail.rich\_text.RichText object at 0x3e1bb010a610>), ('btn\_text', 'Download now'), ('href', 'https://services.google.com/fh/files/misc/adversarial-misuse-generative-ai.pdf'), ('image', <GAEImage: adversarial gen AI cover>)\])\]>
+<ListValue: \[StructValue(\[('title', 'Adversarial Misuse of Generative AI'), ('body', <wagtail.rich\_text.RichText object at 0x3e1bb10f4460>), ('btn\_text', 'Download now'), ('href', 'https://services.google.com/fh/files/misc/adversarial-misuse-generative-ai.pdf'), ('image', <GAEImage: adversarial gen AI cover>)\])\]>
 
 Executive Summary
 -----------------
@@ -566,4 +566,5 @@ About the Authors
 Google Threat Intelligence Group brings together the Mandiant Intelligence and Threat Analysis Group (TAG) teams, and focuses on identifying, analyzing, mitigating, and eliminating entire classes of cyber threats against Alphabet, our users, and our customers. Our work includes countering threats from government-backed attackers, targeted 0-day exploits, coordinated information operations (IO), and serious cyber crime networks. We apply our intelligence to improve Google's defenses and protect our users and customers.
 
 <br/>
+[Source](https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai/)
 ---

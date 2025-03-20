@@ -20,4 +20,5 @@ You can find the newsletter version of this podcast [here](https://news.risky.bi
 -   [Risky Biz News: Improperly patched Cleo bug exploited in the wild](https://news.risky.biz/risky-biz-news-improperly-patched-cleo-bug-exploited-in-the-wild/v)
 
 <br/>
+[Source](https://risky.biz/RBNEWS372/)
 ---

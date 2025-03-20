@@ -23,4 +23,5 @@ In this Risky Business Talks interview we invited Will Thomas to talk about the 
 -   [Inside the Black Basta Leak: How Ransomware Operators Gain Access](https://www.kelacyber.com/blog/black-basta-leak-how-ransomware-operators-gain-access/)
 
 <br/>
+[Source](https://risky.biz/RBTALKS6/)
 ---

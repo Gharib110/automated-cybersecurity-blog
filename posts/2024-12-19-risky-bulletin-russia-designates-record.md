@@ -18,4 +18,5 @@ A short podcast updating listeners on the security news of the last few days, as
 -   [Risky Bulletin: The growing influencer problem to national security](https://risky.biz/risky-bulletin-the-growing-influencer-problem-to-national-security/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS377/)
 ---

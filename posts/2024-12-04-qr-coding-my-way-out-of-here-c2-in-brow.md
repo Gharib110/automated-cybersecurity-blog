@@ -124,4 +124,5 @@ In this blog post, Mandiant demonstrated a novel technique to establish C2 when 
 Through numerous adversarial emulation engagements and [Red Team](https://cloud.google.com/security/consulting/mandiant-red-team) and [Purple Team](https://cloud.google.com/security/resources/datasheets/consulting-services-purple-team-assessment) assessments, Mandiant has gained an in-depth understanding of the unique paths attackers may take in compromising their targets. Review our [Technical Assurance](https://cloud.google.com/security/consulting/mandiant-technical-assurance) services and [contact us](https://www.mandiant.com/contact-us) for more information.
 
 <br/>
+[Source](https://cloud.google.com/blog/topics/threat-intelligence/c2-browser-isolation-environments/)
 ---

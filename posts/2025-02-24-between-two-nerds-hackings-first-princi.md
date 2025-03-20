@@ -22,4 +22,5 @@ This episode is also available on [Youtube](https://youtu.be/XEXgO8LzdP8).
 -   [Device code phishing](https://arstechnica.com/information-technology/2025/02/russian-spies-use-device-code-phishing-to-hijack-microsoft-accounts/)
 
 <br/>
+[Source](https://risky.biz/BTN109/)
 ---

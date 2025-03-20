@@ -14,4 +14,5 @@ categories:
 In this edition of Between Two Nerds Tom Uren and The Grugq talk about how ungoverned spaces on Telegram result in increasingly toxic and antisocial communities.
 
 <br/>
+[Source](https://risky.biz/BTN100/)
 ---

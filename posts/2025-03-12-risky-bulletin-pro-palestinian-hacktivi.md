@@ -16,4 +16,5 @@ A Pro Palestinian group claims credit for the X DDoS, CISA gets a new director a
 ### Show notes
 
 <br/>
+[Source](https://risky.biz/RBNEWS397/)
 ---

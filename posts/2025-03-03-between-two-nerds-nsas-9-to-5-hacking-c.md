@@ -22,4 +22,5 @@ This episode is also available on [Youtube](https://www.youtube.com/watch?v=WPaB
 -   [Risky Business podcast discussion with Inversecos](https://youtu.be/dvSTj31CPcI?t=2350)
 
 <br/>
+[Source](https://risky.biz/BTN110/)
 ---

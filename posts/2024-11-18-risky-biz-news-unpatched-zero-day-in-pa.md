@@ -20,4 +20,5 @@ You can find the newsletter version of this podcast [here](https://news.risky.bi
 -   [Risky Biz News: Unpatched zero-day in Palo Alto Networks is in the wild](https://news.risky.biz/risky-biz-news-unpatched-zero-day-in-palo-alto-networks-is-in-the-wild/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS362/)
 ---

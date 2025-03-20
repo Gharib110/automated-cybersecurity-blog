@@ -297,4 +297,5 @@ Acknowledgement
 Special thanks to the reviewers: Adrian Hernandez, Robert Wallace, Joseph Dobson, Mohamed El-Banna, and Jigisha Patel.
 
 <br/>
+[Source](https://cloud.google.com/blog/topics/threat-intelligence/securing-cryptocurrency-organizations/)
 ---

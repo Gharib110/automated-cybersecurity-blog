@@ -16,4 +16,5 @@ North Korean hackers steal one and a half billion dollars from Bybit, Apple disa
 ### Show notes
 
 <br/>
+[Source](https://risky.biz/RBNEWS390/)
 ---

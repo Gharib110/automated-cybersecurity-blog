@@ -18,4 +18,5 @@ They also talk about Session Messenger app which has decamped from Australia and
 This episode is also available on [Youtube](https://youtu.be/DCD1WJv-e58).
 
 <br/>
+[Source](https://risky.biz/SRB99/)
 ---

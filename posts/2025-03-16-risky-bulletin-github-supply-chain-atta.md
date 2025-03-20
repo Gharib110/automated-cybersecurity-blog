@@ -16,4 +16,5 @@ A GitHub supply chain attack leaks secrets, the White House tells federal agenci
 ### Show notes
 
 <br/>
+[Source](https://risky.biz/RBNEWS399/)
 ---

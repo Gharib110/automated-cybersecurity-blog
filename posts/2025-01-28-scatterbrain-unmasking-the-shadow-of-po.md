@@ -1400,4 +1400,5 @@ Acknowledgements
 Special thanks to Conor Quigley and Luke Jenkins from the Google Threat Intelligence Group for their contributions to both Mandiant and Google’s efforts in understanding and combating the POISONPLUG threat. We also appreciate the ongoing support and dedication of the teams at Google, whose combined efforts have been crucial in enhancing our cybersecurity defenses against sophisticated adversaries.
 
 <br/>
+[Source](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator/)
 ---

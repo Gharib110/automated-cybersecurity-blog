@@ -21,4 +21,5 @@ This episode is also available on [Youtube](https://youtu.be/AQtO7bE16VA).
 -   [Kim Zetter's Zero Day substack](https://www.zetter-zeroday.com/u-s-government-disclosed-39-zero-day-vulnerabilities-in-2023-per-first-ever-report/)
 
 <br/>
+[Source](https://risky.biz/BTN108/)
 ---

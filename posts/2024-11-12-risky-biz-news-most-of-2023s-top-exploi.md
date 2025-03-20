@@ -20,4 +20,5 @@ You can find the newsletter version of this podcast [here](https://news.risky.bi
 -   [Risky Biz News: Most of 2023's top exploited vulnerabilities were initially zero-days](https://news.risky.biz/risky-biz-news-most-of-2023s-top-exploited-vulnerabilities-were-initially-zero-days/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS360/)
 ---

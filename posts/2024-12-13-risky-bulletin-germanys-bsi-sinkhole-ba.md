@@ -18,4 +18,5 @@ A short podcast updating listeners on the security news of the last few days, as
 -   [Risky Bulletin: Germany's BSI sinkhole BADBOX malware traffic](https://news.risky.biz/risky-bulletin-germanys-bsi-sinkhole-badbox-malware-traffic/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS373/)
 ---

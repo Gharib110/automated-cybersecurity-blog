@@ -14,4 +14,5 @@ categories:
 In this edition of Between Two Nerds Tom Uren and The Grugq discuss what the Russian state gains and loses from hosting a ransomware ecosystem.
 
 <br/>
+[Source](https://risky.biz/BTN99/)
 ---

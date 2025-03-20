@@ -20,4 +20,5 @@ You can find the newsletter version of this podcast [here](https://news.risky.bi
 -   [Risky Biz News: EU warns Temu to respect consumer protection laws](https://news.risky.biz/risky-biz-news-eu-warns-temu-to-respect-consumer-protection-laws/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS359/)
 ---

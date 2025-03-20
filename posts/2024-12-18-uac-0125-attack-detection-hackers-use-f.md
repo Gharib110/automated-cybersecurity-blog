@@ -18,4 +18,5 @@ Hard on the heels of the cyber-espionage campaign by UAC-0099 via the phishing a
 The post [UAC-0125 Attack Detection: Hackers Use Fake Websites on Cloudflare Workers to Exploit the “Army+” Application](https://socprime.com/blog/uac-0125-attacks-against-ukraine-detection/) appeared first on [SOC Prime](https://socprime.com).
 
 <br/>
+[Source](https://socprime.com/blog/uac-0125-attacks-against-ukraine-detection/)
 ---

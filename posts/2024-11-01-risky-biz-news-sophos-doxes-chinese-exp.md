@@ -20,4 +20,5 @@ You can find the newsletter version of this podcast [here](https://news.risky.bi
 -   [Risky Biz News: US removes Sandvine from sanctions list after pinky promise](https://news.risky.biz/risky-biz-news-us-removes-sandvine-from-sanctions-list-after-pinky-promise/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS355/)
 ---

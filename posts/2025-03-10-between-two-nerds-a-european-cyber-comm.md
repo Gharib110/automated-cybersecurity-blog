@@ -20,4 +20,5 @@ This episode is also available on [Youtube](https://youtu.be/FeGTxVuyOLI).
 -   [Zero Day on the Trump Administration order that US Cyber Command stand down it's Russian cyber operations](https://www.zetter-zeroday.com/did-trump-admin-order-u-s-cyber-command-and-cisa-to-stand-down-on-russia/)
 
 <br/>
+[Source](https://risky.biz/BTN111/)
 ---

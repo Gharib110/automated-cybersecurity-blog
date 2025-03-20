@@ -18,4 +18,5 @@ In this Risky Business News sponsor interview, Catalin Cimpanu talks with Jimmy 
 -   [I discovered a fun party trick for the next time you get an AI phone call](https://www.linkedin.com/posts/jimmymesta_i-discovered-a-fun-party-trick-for-the-next-activity-7290513963467816960-qOQn/)
 
 <br/>
+[Source](https://risky.biz/RBNEWSSI71/)
 ---

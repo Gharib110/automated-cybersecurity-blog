@@ -18,4 +18,5 @@ A short podcast updating listeners on the security news of the last few days, as
 -   [Risky Bulletin: Payment card NFC relay attacks spread across Russia](https://risky.biz/risky-bulletin-payment-card-nfc-relay-attacks-spread-across-russia/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS380/)
 ---

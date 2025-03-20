@@ -18,4 +18,5 @@ In this Risky Business News sponsor interview, Catalin Cimpanu talks with Proofp
 -   [Security Brief: ClickFix Social Engineering Technique Floods Threat Landscape](https://www.proofpoint.com/us/blog/threat-insight/security-brief-clickfix-social-engineering-technique-floods-threat-landscape)
 
 <br/>
+[Source](https://risky.biz/RBNEWSSI67/)
 ---

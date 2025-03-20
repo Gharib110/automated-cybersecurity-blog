@@ -22,4 +22,5 @@ This episode is also available on [Youtube](https://youtu.be/qltnlvvlCTE).
 ### Show notes
 
 <br/>
+[Source](https://risky.biz/SRB107/)
 ---

@@ -22,4 +22,5 @@ You can find the newsletter version of this podcast [here](https://news.risky.bi
 -   [Risky Biz News: Apple wants to reduce the lifespan of TLS certificates to 10 days](https://news.risky.biz/risky-biz-news-apple-wants-to-reduce-lifespan-of-tls-certificates-to-only-10-days/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS351/)
 ---

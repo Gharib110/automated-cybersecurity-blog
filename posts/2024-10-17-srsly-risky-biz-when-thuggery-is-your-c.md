@@ -20,4 +20,5 @@ They also talk about OpenAI’s report into malicious actor’s use of its model
 -   [Influence and cyber operations: an update, October 2024](https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf)
 
 <br/>
+[Source](https://risky.biz/SRB98/)
 ---

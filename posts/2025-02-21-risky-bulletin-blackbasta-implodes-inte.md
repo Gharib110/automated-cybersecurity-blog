@@ -16,4 +16,5 @@ The BlackBasta ransomware group implodes, Russian military hackers target Signal
 ### Show notes
 
 <br/>
+[Source](https://risky.biz/RBNEWS389/)
 ---

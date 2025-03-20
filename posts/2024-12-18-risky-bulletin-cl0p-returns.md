@@ -18,4 +18,5 @@ A short podcast updating listeners on the security news of the last few days, as
 -   [Risky Bulletin: CISA sent 2,100+ pre-ransomware alerts this year](https://risky.biz/risky-bulletin-cisa-sent-2-100-pre-ransomware-alerts-this-year/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS376/)
 ---

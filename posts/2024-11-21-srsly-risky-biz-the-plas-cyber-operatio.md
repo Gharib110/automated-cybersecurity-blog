@@ -18,4 +18,5 @@ They also discuss the shift towards widespread exploitation of 0days, particular
 This episode is also available on [Youtube](https://youtu.be/SXQuYawXqC4).
 
 <br/>
+[Source](https://risky.biz/SRB102/)
 ---

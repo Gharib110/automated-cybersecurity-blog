@@ -16,4 +16,5 @@ Researchers turn any Bluetooth device into an AirTag tracker, VMware patches thr
 ### Show notes
 
 <br/>
+[Source](https://risky.biz/RBNEWS394/)
 ---

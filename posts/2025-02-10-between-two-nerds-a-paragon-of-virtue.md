@@ -22,4 +22,5 @@ This episode is also available on [Youtube](https://youtu.be/lsLx_lezmVs).
 -   [Dropping Italy as a customer](https://www.theguardian.com/technology/2025/feb/06/owner-of-spyware-used-in-alleged-whatsapp-breach-ends-contract-with-italy)
 
 <br/>
+[Source](https://risky.biz/BTN107/)
 ---

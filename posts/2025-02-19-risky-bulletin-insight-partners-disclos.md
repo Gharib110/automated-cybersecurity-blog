@@ -16,4 +16,5 @@ VC giant Insight Partners gets social engineered, OpenSSH patches an attacker-in
 ### Show notes
 
 <br/>
+[Source](https://risky.biz/RBNEWS388/)
 ---

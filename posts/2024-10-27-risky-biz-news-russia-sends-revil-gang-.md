@@ -20,4 +20,5 @@ You can find the newsletter version of this podcast [here](https://news.risky.bi
 -   [Risky Biz News: Russia sentences REvil members to prison. Yes! Really!](https://news.risky.biz/risky-biz-news-russia-sentences-revil-members-to-prison-yes-really/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS353/)
 ---

@@ -18,4 +18,5 @@ A short podcast updating listeners on the security news of the last few days, as
 -   [Risky Bulletin: Authorities seize Cracked and Nulled cybercrime forums](https://risky.biz/risky-bulletin-authorities-seize-cracked-and-nulled-cybercrime-forums/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS383/)
 ---

@@ -18,4 +18,5 @@ They also discuss a sterling CISA red team report and the naivet√© of Microsoft‚
 This episode is also available on [Youtube](https://youtu.be/_K8OfqvQIms).
 
 <br/>
+[Source](https://risky.biz/SRB103/)
 ---

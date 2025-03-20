@@ -18,4 +18,5 @@ They also discuss the impact of the Chinese hack of US telcos and Sophos’ five
 This episode is also available on [Youtube](https://youtu.be/CsS_AgifrmU).
 
 <br/>
+[Source](https://risky.biz/SRB100/)
 ---

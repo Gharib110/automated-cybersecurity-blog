@@ -22,4 +22,5 @@ This episode is also available on [Youtube](https://youtu.be/Umj3OpozCdY).
 -   [CSIS report on Russia's 'Shadow War'](https://www.csis.org/analysis/russias-shadow-war-against-west)
 
 <br/>
+[Source](https://risky.biz/SRB113/)
 ---

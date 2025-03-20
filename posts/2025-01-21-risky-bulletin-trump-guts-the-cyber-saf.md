@@ -18,4 +18,5 @@ A short podcast updating listeners on the security news of the last few days, as
 -   [Risky Bulletin: Threat actor impersonates FSB APT for months to target Russian orgs](https://news.risky.biz/risky-bulletin-threat-actor-impersonates-fsb-apt-for-months-to-target-russian-orgs/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS379/)
 ---

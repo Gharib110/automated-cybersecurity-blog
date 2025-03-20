@@ -20,4 +20,5 @@ You can find the newsletter version of this podcast [here](https://news.risky.bi
 -   [Risky Biz News: US charges five Scattered Spider members](https://news.risky.biz/risky-biz-news-us-charges-five-scattered-spider-members/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS364/)
 ---

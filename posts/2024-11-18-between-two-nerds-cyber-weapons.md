@@ -20,4 +20,5 @@ They reference Defining Offensive Cyber Capabilities, a paper authored by Tom.
 -   [Defining offensive cyber capabilities](https://www.aspi.org.au/report/defining-offensive-cyber-capabilities)
 
 <br/>
+[Source](https://risky.biz/BTN101/)
 ---

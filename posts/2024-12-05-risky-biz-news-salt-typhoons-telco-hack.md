@@ -20,4 +20,5 @@ You can find the newsletter version of this podcast [here](https://news.risky.bi
 -   [Risky Biz News: Declassified documents reveal Russia's election info-ops in Romania](https://news.risky.biz/risky-biz-news-declassified-documents-reveal-russias-election-info-ops-in-romania/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS370/)
 ---

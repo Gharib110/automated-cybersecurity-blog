@@ -14,4 +14,5 @@ categories:
 In this edition of Between Two Nerds Tom Uren and The Grugq talk about different views on attribution and why it still matters for sophisticated state-backed groups.
 
 <br/>
+[Source](https://risky.biz/BTN102/)
 ---

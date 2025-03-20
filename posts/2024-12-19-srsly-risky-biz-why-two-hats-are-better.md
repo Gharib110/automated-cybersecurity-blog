@@ -20,4 +20,5 @@ This episode is also availble on [Youtube](https://youtu.be/RNw5NCYSeG8).
 ### Show notes
 
 <br/>
+[Source](https://risky.biz/SRB106/)
 ---

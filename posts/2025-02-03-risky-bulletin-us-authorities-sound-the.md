@@ -18,4 +18,5 @@ A short podcast updating listeners on the security news of the last few days, as
 -   [Risky Bulletin: CISA & FDA warn of backdoor in patient monitor](https://risky.biz/risky-bulletin-fda-warns-of-backdoor-in-patient-monitor/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS384/)
 ---

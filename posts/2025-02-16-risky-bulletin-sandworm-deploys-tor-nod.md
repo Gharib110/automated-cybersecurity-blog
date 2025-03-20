@@ -16,4 +16,5 @@ Sandworm deploys Tor nodes on hacked networks, the UK drops military training fo
 ### Show notes
 
 <br/>
+[Source](https://risky.biz/RBNEWS387/)
 ---

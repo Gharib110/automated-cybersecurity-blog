@@ -18,4 +18,5 @@ In this edition of Between Two Nerds Tom Uren and The Grugq talk about how the o
 -   [This Kid Wouldn't Stop Hacking Rappers](https://youtu.be/vyDt5NKAv_I)
 
 <br/>
+[Source](https://risky.biz/BTN103/)
 ---

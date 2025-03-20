@@ -18,4 +18,5 @@ A short podcast updating listeners on the security news of the last few days, as
 -   [Risky Bulletin: Supply chain attack at AdsPower browser platform](https://risky.biz/risky-bulletin-supply-chain-attack-at-adspower-browser-platform/)
 
 <br/>
+[Source](https://risky.biz/RBNEWS386/)
 ---
