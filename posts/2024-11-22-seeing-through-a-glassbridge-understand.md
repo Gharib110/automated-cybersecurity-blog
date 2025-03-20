@@ -318,6 +318,7 @@ DURINBRIDGE
 
 heartofmalaysia\[.\]com
 
-[Source](https://cloud.google.com/blog/topics/threat-intelligence/glassbridge-pro-prc-influence-operations/)
+#### [Source](https://cloud.google.com/blog/topics/threat-intelligence/glassbridge-pro-prc-influence-operations/)
+
 <br/>
 ---

@@ -17,6 +17,7 @@ Lumma Stealer, nefarious info-stealing malware, resurfaces in the cyber threat a
 
 The post [Lumma Stealer Detection: Sophisticated Campaign Using GitHub Infrastructure to Spread SectopRAT, Vidar, Cobeacon, and Other Types of Malware](https://socprime.com/blog/lumma-stealer-detection/) appeared first on [SOC Prime](https://socprime.com).
 
-[Source](https://socprime.com/blog/lumma-stealer-detection/)
+#### [Source](https://socprime.com/blog/lumma-stealer-detection/)
+
 <br/>
 ---

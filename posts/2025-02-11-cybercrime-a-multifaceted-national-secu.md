@@ -24,7 +24,7 @@ Despite the overlaps in effects and collaboration with states, tackling the root
 
 aside\_block
 
-<ListValue: \[StructValue(\[('title', 'Cybercrime: A Multifaceted National Security Threat'), ('body', <wagtail.rich\_text.RichText object at 0x3e1ce00fbc10>), ('btn\_text', 'Download now'), ('href', 'https://services.google.com/fh/files/misc/cybercrime-multifaceted-national-security-threat.pdf'), ('image', <GAEImage: cybercrime-cover>)\])\]>
+<ListValue: \[StructValue(\[('title', 'Cybercrime: A Multifaceted National Security Threat'), ('body', <wagtail.rich\_text.RichText object at 0x3e157d8927f0>), ('btn\_text', 'Download now'), ('href', 'https://services.google.com/fh/files/misc/cybercrime-multifaceted-national-security-threat.pdf'), ('image', <GAEImage: cybercrime-cover>)\])\]>
 
 Stand-Alone Cybercrime is a Threat to Countries' National Security
 ------------------------------------------------------------------
@@ -244,13 +244,14 @@ If a single ransomware-as-a-service provider is taken down, many others are alre
 
 aside\_block
 
-<ListValue: \[StructValue(\[('title', 'The Evolution of Cybercrime'), ('body', <wagtail.rich\_text.RichText object at 0x3e1ce00fbc70>), ('btn\_text', 'Watch now'), ('href', 'https://www.youtube.com/watch?v=NtANWZPHUak'), ('image', <GAEImage: evolution of cybercrime>)\])\]>
+<ListValue: \[StructValue(\[('title', 'The Evolution of Cybercrime'), ('body', <wagtail.rich\_text.RichText object at 0x3e157d892c10>), ('btn\_text', 'Watch now'), ('href', 'https://www.youtube.com/watch?v=NtANWZPHUak'), ('image', <GAEImage: evolution of cybercrime>)\])\]>
 
 About the Authors
 -----------------
 
 Google Threat Intelligence Group brings together the Mandiant Intelligence and Threat Analysis Group (TAG) teams, and focuses on identifying, analyzing, mitigating, and eliminating entire classes of cyber threats against Alphabet, our users, and our customers. Our work includes countering threats from government-backed attackers, targeted 0-day exploits, coordinated information operations (IO), and serious cybercrime networks. We apply our intelligence to improve Google's defenses and protect our users and customers.
 
-[Source](https://cloud.google.com/blog/topics/threat-intelligence/cybercrime-multifaceted-national-security-threat/)
+#### [Source](https://cloud.google.com/blog/topics/threat-intelligence/cybercrime-multifaceted-national-security-threat/)
+
 <br/>
 ---

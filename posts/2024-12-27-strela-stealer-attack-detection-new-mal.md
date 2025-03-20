@@ -17,6 +17,7 @@ Security experts have uncovered a novel Strela Stealer campaign, which leverages
 
 The post [Strela Stealer Attack Detection: New Malware Variant Now Targets Ukraine Alongside Spain, Italy, and Germany](https://socprime.com/blog/strela-stealer-attack-detection/) appeared first on [SOC Prime](https://socprime.com).
 
-[Source](https://socprime.com/blog/strela-stealer-attack-detection/)
+#### [Source](https://socprime.com/blog/strela-stealer-attack-detection/)
+
 <br/>
 ---

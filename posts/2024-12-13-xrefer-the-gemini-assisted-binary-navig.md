@@ -21,7 +21,7 @@ Today we introduce a new tool, XRefer (pronounced eks\-reffer), which aims to sh
 
 aside\_block
 
-<ListValue: \[StructValue(\[('title', 'Get XRefer now!'), ('body', <wagtail.rich\_text.RichText object at 0x3e1cff39d550>), ('btn\_text', 'Download'), ('href', 'https://github.com/mandiant/xrefer'), ('image', None)\])\]>
+<ListValue: \[StructValue(\[('title', 'Get XRefer now!'), ('body', <wagtail.rich\_text.RichText object at 0x3e157f923400>), ('btn\_text', 'Download'), ('href', 'https://github.com/mandiant/xrefer'), ('image', None)\])\]>
 
 Introduction
 ------------
@@ -544,6 +544,7 @@ Acknowledgements
 
 Special thanks to Genwei Jiang and Mustafa Nasser for their code contributions to XRefer and to Ana Martinez Gomez for including XRefer in the default FLARE-VM configuration. Additional thanks to the FLARE team members who provided valuable feedback through their use of XRefer.
 
-[Source](https://cloud.google.com/blog/topics/threat-intelligence/xrefer-gemini-assisted-binary-navigator/)
+#### [Source](https://cloud.google.com/blog/topics/threat-intelligence/xrefer-gemini-assisted-binary-navigator/)
+
 <br/>
 ---

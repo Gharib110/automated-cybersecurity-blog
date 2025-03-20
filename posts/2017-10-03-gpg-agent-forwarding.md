@@ -30,6 +30,7 @@ Once done, I can ssh in to “server.example.com” and use the gpg command on t
 
 [![](https://www.grepular.com/images/amazon/pgp_and_gpg.jpg)](https://www.grepular.com/redir?key=amazon_pgp_and_gpg "PGP & GPG: Email for the Practical Paranoid") [![](https://www.grepular.com/images/amazon/web_application_hackers_handbook.jpg)](https://www.grepular.com/redir?key=amazon_web_application_hackers_handbook "The Web Application Hackers Handbook") [![](https://www.grepular.com/images/amazon/schneier.jpg)](https://www.grepular.com/redir?key=amazon_schneier "Schneier on Security")
 
-[Source](https://www.grepular.com/GPG_Agent_Forwarding)
+#### [Source](https://www.grepular.com/GPG_Agent_Forwarding)
+
 <br/>
 ---

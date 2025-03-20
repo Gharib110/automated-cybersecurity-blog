@@ -28,6 +28,7 @@ I used environment variables configured in gitlab for the creds, sender and rcpt
 
 Then I waited. I wasn’t sure if this would work initially as for all I knew gitlab would block outgoing port 465 from it’s runners. It doesn’t though. The next time a new version of sqlite3 was released I received the email alerting me to that fact.
 
-[Source](https://www.grepular.com/Sending_Email_Using_Curl)
+#### [Source](https://www.grepular.com/Sending_Email_Using_Curl)
+
 <br/>
 ---

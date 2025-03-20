@@ -69,6 +69,7 @@ P.S. Initial impressions of rust-analyzer are that it’s very good and I never 
 
 [![Programming Rust](https://www.grepular.com/images/amazon/programming_rust.jpg)](https://www.grepular.com/redir?key=amazon_programming_rust "Programming Rust") [![Docker: Up and Running](https://www.grepular.com/images/amazon/docker_up_and_running.jpg)](https://www.grepular.com/redir?key=amazon_docker_up_and_running "Docker: Up and Running")
 
-[Source](https://www.grepular.com/Sandbox_Rust_Development_with_Rust_Analyzer)
+#### [Source](https://www.grepular.com/Sandbox_Rust_Development_with_Rust_Analyzer)
+
 <br/>
 ---

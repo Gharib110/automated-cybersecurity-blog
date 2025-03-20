@@ -150,6 +150,7 @@ Acknowledgements
 
 A very special thanks to everyone who contributed to this project's early and continued development. This blog post was made possible by Chris King, Evan Peña, Jerry McClurg, and Jeff Hoffmann.
 
-[Source](https://cloud.google.com/blog/topics/threat-intelligence/session-stealing-browser-in-the-middle/)
+#### [Source](https://cloud.google.com/blog/topics/threat-intelligence/session-stealing-browser-in-the-middle/)
+
 <br/>
 ---

@@ -17,6 +17,7 @@ XE Group, likely a Vietnam-linked hacking collective that has been active in the
 
 The post [XE Group Activity Detection: From Credit Card Skimming to Exploiting CVE-2024-57968 and CVE-2025-25181 VeraCore Zero-Day Vulnerabilities](https://socprime.com/blog/detect-xe-group-attacks/) appeared first on [SOC Prime](https://socprime.com).
 
-[Source](https://socprime.com/blog/detect-xe-group-attacks/)
+#### [Source](https://socprime.com/blog/detect-xe-group-attacks/)
+
 <br/>
 ---
