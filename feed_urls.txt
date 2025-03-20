@@ -2,4 +2,7 @@ https://www.mandiant.com/resources/blog/rss.xml
 https://socprime.com/tag/cyberattack/feed/
 https://www.hackread.com/cyber-events/cyber-attacks-cyber-events/feed/
 https://www.hackread.com/security/malware/feed/
-https://risky.biz/feeds/risky-business-news/
+http://www.bluecoat.com/security/rss
+http://feeds.feedburner.com/CyberArms
+https://www.grepular.com/rss
+http://feeds.feedburner.com/PentestTools
