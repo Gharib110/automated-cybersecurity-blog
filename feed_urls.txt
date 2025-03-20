@@ -5,4 +5,3 @@ https://www.hackread.com/security/malware/feed/
 http://www.bluecoat.com/security/rss
 http://feeds.feedburner.com/CyberArms
 https://www.grepular.com/rss
-http://feeds.feedburner.com/PentestTools
